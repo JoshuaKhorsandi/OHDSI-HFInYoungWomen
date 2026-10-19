@@ -1,0 +1,38 @@
+Package: HFInYoungWomen
+Title: Unsupervised Learning for Heart Failure Phenotyping in Young Women
+Version: 0.1.0
+Authors@R: person(given="Joshua",family="Khorsandi", email="jkhorsa1@jh.edu", role=c("aut", "cre"))
+Description: OHDSI study package for unsupervised clustering of features to
+    identify heart failure phenotypes in women under 55 years old. Creates the
+    cohort, extracts features, trains a Variational Deep Embedding (VaDE)
+    model and assigns every cohort patient to a cluster, end to end from
+    connection details in an env file.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+SystemRequirements: Java (>= 8) for DatabaseConnector; Python (>= 3.11, <
+    3.13) with the packages in inst/python/requirements.txt, provisioned by
+    reticulate with uv
+Imports:
+    DatabaseConnector,
+    dotenv,
+    dplyr,
+    ggplot2,
+    jsonlite,
+    nanoparquet,
+    readr,
+    reticulate (>= 1.41),
+    rlang,
+    SqlRender,
+    survival,
+    tibble
+Depends:
+  FeatureExtraction
+Suggests:
+    Eunomia,
+    PheValuator,
+    testthat (>= 3.0.0),
+    withr
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
+RoxygenNote: 7.3.3

@@ -1,0 +1,861 @@
+Concept Id,ATC 1,ATC 3,ATC 4,Ingredient,Person Count,Prevalence,Length of Era
+967823,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,sodium chloride,"1,331",94.60%,29.31
+1125315,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,acetaminophen,"1,314",93.39%,65.58
+19049105,CARDIOVASCULAR SYSTEM,DIURETICS,Sulfonamides and potassium in combination,potassium chloride,"1,280",90.97%,37.06
+989878,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,lidocaine,"1,245",88.49%,50.59
+1000560,ALIMENTARY TRACT AND METABOLISM,ANTIEMETICS AND ANTINAUSEANTS,Serotonin (5HT3) antagonists,ondansetron,"1,178",83.72%,76.53
+1129625,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,diphenhydramine,"1,172",83.30%,61.28
+19080985,VARIOUS,CONTRAST MEDIA,"Watersoluble, nephrotropic, low osmolar X-ray contrast media",iohexol,"1,172",83.30%,3.93
+956874,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,furosemide,"1,129",80.24%,181.14
+19011035,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,lactate,"1,107",78.68%,13.47
+19036781,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Acidifiers,calcium chloride,"1,107",78.68%,6.76
+1367571,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,heparin,"1,095",77.83%,22.59
+1154029,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,fentanyl,"1,079",76.69%,6.77
+1124957,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,oxycodone,"1,064",75.62%,88.8
+19093848,VARIOUS,DIAGNOSTIC AGENTS,Tests for bile duct patency,magnesium sulfate,"1,009",71.71%,11.4
+753626,NERVOUS SYSTEM,ANESTHETICS,Other general anesthetics,propofol,962,68.37%,3.4
+986417,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Osmotically acting laxatives,polyethylene glycol 3350,960,68.23%,108.03
+948078,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIBACTERIALS FOR SYSTEMIC USE,"Combinations of penicillins, incl. beta-lactamase inhibitors",pantoprazole,950,67.52%,157.58
+708298,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,midazolam,943,67.02%,3.9
+1154343,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,albuterol,923,65.60%,339.04
+938268,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Contact laxatives,"sennosides, USP",902,64.11%,92.61
+1560524,VARIOUS,GENERAL NUTRIENTS,Carbohydrates,glucose,871,61.91%,78.54
+1301025,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Heparin group,enoxaparin,858,60.98%,25.91
+941258,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Iron in other combinations,docusate,807,57.36%,140.15
+1112807,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,aspirin,787,55.94%,186.58
+953076,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,H2-receptor antagonists,famotidine,749,53.23%,126.22
+1177480,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,"Oxazol, thiazine, and triazine derivatives",ibuprofen,745,52.95%,187.27
+1777806,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ceftriaxone,738,52.45%,5.39
+1126658,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,hydromorphone,728,51.74%,40.64
+1707687,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,vancomycin,717,50.96%,13.79
+1136980,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,Acetic acid derivatives and related substances,ketorolac,712,50.60%,10.45
+1110410,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,morphine,706,50.18%,24.89
+1307046,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,Beta blocking agents and calcium channel blockers,metoprolol,701,49.82%,336.16
+1771162,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefazolin,698,49.61%,3.76
+1518254,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,dexamethasone,678,48.19%,25.93
+1135766,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,phenylephrine,673,47.83%,4.64
+797399,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,gabapentin,669,47.55%,252.56
+1734104,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,azithromycin,667,47.41%,43.75
+791967,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,lorazepam,645,45.84%,43.76
+1551099,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",prednisone,642,45.63%,207.87
+1567198,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting","insulin aspart, human",616,43.78%,83.34
+19003953,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other quaternary ammonium compounds,rocuronium,616,43.78%,2.14
+1343916,RESPIRATORY SYSTEM,NASAL PREPARATIONS,"Sympathomimetics, plain",epinephrine,609,43.28%,57.4
+939506,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,sodium bicarbonate,609,43.28%,84.94
+1163944,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",ANTIPROTOZOALS,Other agents against amoebiasis and other protozoal diseases,guaifenesin,608,43.21%,63.97
+1707164,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,metronidazole,602,42.79%,29
+966991,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,Antacids with antiflatulents,simethicone,592,42.08%,54.28
+19048493,VARIOUS,CONTRAST MEDIA,Paramagnetic contrast media,gadobutrol,591,42.00%,1.82
+732893,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,bupivacaine,591,42.00%,0.72
+1112921,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,ipratropium,587,41.72%,107.49
+1149380,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,fluticasone,578,41.08%,370.74
+1301152,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,melatonin,577,41.01%,83.44
+1114220,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,naloxone,576,40.94%,380.24
+1713332,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,amoxicillin,574,40.80%,61.74
+1748975,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefepime,569,40.44%,7.84
+906780,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,metoclopramide,567,40.30%,65.49
+19092849,CARDIOVASCULAR SYSTEM,DIURETICS,"Thiazides, combinations with other drugs",magnesium chloride,559,39.73%,5
+19077884,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Electrolyte solutions,sodium acetate,551,39.16%,2.77
+1136601,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,benzonatate,550,39.09%,49.77
+19003201,VARIOUS,CONTRAST MEDIA,"Watersoluble, nephrotropic, low osmolar X-ray contrast media",iodixanol,549,39.02%,2.57
+1545958,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,atorvastatin,543,38.59%,374.26
+19078092,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Electrolyte solutions,sodium gluconate,540,38.38%,2.85
+19045045,ALIMENTARY TRACT AND METABOLISM,VITAMINS,Vitamin D and analogues,ergocalciferol,531,37.74%,293.94
+1738521,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,doxycycline,529,37.60%,61.26
+778711,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other centrally acting agents,cyclobenzaprine,527,37.46%,164.98
+1506270,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,methylprednisolone,520,36.96%,20.49
+1103314,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,tramadol,516,36.67%,98.69
+19095164,MUSCULO-SKELETAL SYSTEM,DRUGS FOR TREATMENT OF BONE DISEASES,Other drugs affecting bone structure and mineralization,cholecalciferol,515,36.60%,238.4
+19111620,VARIOUS,DIAGNOSTIC AGENTS,Other diagnostic agents,folic acid,515,36.60%,249.48
+777221,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,hydroxyzine,499,35.47%,121.2
+924939,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Enemas,bisacodyl,495,35.18%,52.81
+1396131,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,ferrous sulfate,487,34.61%,294.67
+1332418,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"ACE inhibitors, other combinations",amlodipine,484,34.40%,315.72
+35604506,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,sugammadex,482,34.26%,1.49
+1373928,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,"Beta blocking agents, selective, thiazides and other diuretics",hydralazine,460,32.69%,88.33
+752061,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,prochlorperazine,456,32.41%,56.78
+19035704,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,calcium carbonate,455,32.34%,62.9
+1705674,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,trimethoprim,454,32.27%,122.49
+1836430,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,sulfamethoxazole,445,31.63%,123.97
+1321341,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Xanthines and adrenergics,norepinephrine,442,31.41%,5.49
+970250,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,spironolactone,442,31.41%,382.31
+975125,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,hydrocortisone,440,31.27%,108.92
+1754994,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,fluconazole,438,31.13%,53.04
+1759842,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIBACTERIALS FOR SYSTEMIC USE,Other cephalosporins and penems,clavulanate,437,31.06%,30.77
+1367500,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and calcium channel blockers,losartan,432,30.70%,308.65
+993631,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,magnesium oxide,425,30.21%,85.79
+1308216,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,lisinopril,424,30.14%,361.21
+702006,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Technetium (99mTc) compounds,technetium,419,29.78%,0.58
+990499,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Electrolyte solutions,"sodium phosphate, monobasic",417,29.64%,8.74
+991710,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Electrolyte solutions,"sodium phosphate, dibasic",417,29.64%,8.74
+992956,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,magnesium hydroxide,414,29.42%,24.2
+1346823,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,Alpha and beta blocking agents,carvedilol,413,29.35%,382.68
+1143374,SENSORY ORGANS,OPHTHALMOLOGICALS,Sympathomimetics excl. antiglaucoma preparations,ephedrine,406,28.86%,1.14
+1797513,SENSORY ORGANS,OPHTHALMOLOGICALS,Fluoroquinolones,ciprofloxacin,402,28.57%,42.93
+785649,NERVOUS SYSTEM,ANESTHETICS,Other general anesthetics,ketamine,402,28.57%,5.78
+19137312,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",ANTIPROTOZOALS,Other agents against amoebiasis and other protozoal diseases,thiamine,396,28.14%,112.29
+901656,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",ANTIPROTOZOALS,Other agents against amoebiasis and other protozoal diseases,menthol,395,28.07%,45.29
+922570,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,nystatin,390,27.72%,166.62
+19061088,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,dexmedetomidine,387,27.51%,3.86
+1153013,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,promethazine,376,26.72%,143.44
+1344143,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Blood substitutes and plasma protein fractions,"albumin human, USP",371,26.37%,6.94
+1361711,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Muscle relaxants,nitroglycerin,371,26.37%,76.26
+1318853,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,nifedipine,367,26.08%,313.86
+1790812,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,chlorhexidine,362,25.73%,54.86
+1741122,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,tazobactam,360,25.59%,7.19
+1746114,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,piperacillin,360,25.59%,7.18
+903963,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,triamcinolone,360,25.59%,172.16
+1115008,MUSCULO-SKELETAL SYSTEM,TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN,"Antiinflammatory preparations, non-steroids for topical use",naproxen,358,25.44%,138.75
+987245,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Osmotically acting laxatives,lactulose,349,24.80%,74.18
+985247,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",aluminum hydroxide,344,24.45%,30.64
+43013024,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Direct factor Xa inhibitors,apixaban,336,23.88%,251.84
+723013,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,diazepam,332,23.60%,55.91
+40239116,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Iron in other combinations,ferrous bisglycinate,330,23.45%,135.97
+997881,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,clindamycin,328,23.31%,89.5
+703547,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,trazodone,322,22.89%,187.76
+924724,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR FUNCTIONAL GASTROINTESTINAL DISORDERS,"Synthetic anticholinergics, esters with tertiary amino group",dicyclomine,319,22.67%,89.03
+46275993,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Influenza vaccines,influenza A virus (H1N1) antigen,312,22.18%,17.44
+46275996,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Influenza vaccines,influenza A virus (H3N2) antigen,312,22.18%,17.44
+46275999,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Influenza vaccines,influenza B virus antigen,312,22.18%,17.44
+1386957,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,Alpha and beta blocking agents and other diuretics,labetalol,307,21.82%,104.39
+1395773,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,"Iron trivalent, oral preparations",iron sucrose,306,21.75%,14.82
+1502905,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",insulin glargine,306,21.75%,290.02
+45775571,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,glycopyrronium,306,21.75%,27.62
+718583,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Drugs used in nicotine dependence,nicotine,306,21.75%,67.5
+1786621,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cephalexin,301,21.39%,69.54
+1360067,VARIOUS,CONTRAST MEDIA,Superparamagnetic contrast media,iron,295,20.97%,54.83
+929887,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,lansoprazole,295,20.97%,71.04
+1124300,MUSCULO-SKELETAL SYSTEM,TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN,"Antiinflammatory preparations, non-steroids for topical use",diclofenac,293,20.82%,220.09
+1119510,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Other nervous system drugs,dextromethorphan,289,20.54%,48.83
+19033354,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,petrolatum,285,20.26%,91.56
+1551860,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,pravastatin,284,20.18%,175.79
+19027362,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Electrolyte solutions,potassium phosphate,283,20.11%,7.1
+920293,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,nitrofurantoin,281,19.97%,54.2
+1318137,CARDIOVASCULAR SYSTEM,CALCIUM CHANNEL BLOCKERS,Dihydropyridine derivatives,nicardipine,278,19.76%,2.12
+836208,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Choline derivatives,succinylcholine,274,19.47%,4.09
+1149196,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiallergics,cetirizine,273,19.40%,237.81
+1308842,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,valsartan,272,19.33%,421.91
+1796458,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefdinir,272,19.33%,21.84
+951511,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,mupirocin,271,19.26%,132.52
+1596977,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting","insulin, regular, human",270,19.19%,46.82
+1347450,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,alteplase,269,19.12%,15.69
+991876,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,Acetic acid derivatives and related substances,loperamide,267,18.98%,90.11
+37003432,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Other viral vaccines,"SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein",259,18.41%,8.15
+974166,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"ACE inhibitors, other combinations",hydrochlorothiazide,256,18.20%,398.58
+923645,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIBACTERIALS FOR SYSTEMIC USE,"Combinations of penicillins, incl. beta-lactamase inhibitors",omeprazole,253,17.98%,444.07
+19037038,DERMATOLOGICALS,OTHER DERMATOLOGICAL PREPARATIONS,Other dermatologicals,calcium gluconate,252,17.91%,11.33
+1503297,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,metformin,251,17.84%,520.26
+40222115,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Nicotinic acid and derivatives,calcium amino acid chelate,246,17.48%,16.14
+1717327,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ampicillin,244,17.34%,12.58
+704943,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,methocarbamol,244,17.34%,48.02
+19076714,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Solutions affecting the electrolyte balance,dibasic potassium phosphate,241,17.13%,3.54
+19011331,VARIOUS,CONTRAST MEDIA,Barium sulfate containing X-ray contrast media,barium sulfate,239,16.99%,0.68
+1201620,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,codeine,238,16.91%,111.76
+715259,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,duloxetine,235,16.70%,268.79
+19136048,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",sodium,232,16.49%,18.24
+766814,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,quetiapine,231,16.42%,158.65
+739138,NERVOUS SYSTEM,PSYCHOANALEPTICS,Selective serotonin reuptake inhibitors,sertraline,225,15.99%,263.99
+40174004,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 1 capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+40174011,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 19A capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+40174015,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 3 capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+40174018,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 5 capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+40174020,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 6A capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+40174023,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 7F capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+42904300,NA,NA,NA,tribasic sodium phosphate,224,15.92%,7
+528986,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 14 capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+528988,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 18C capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+528990,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 19F capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+529042,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 23F capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+529044,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 4 capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+529046,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 6B capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+529072,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae serotype 9V capsular antigen diphtheria CRM197 protein conjugate vaccine,224,15.92%,0
+45774751,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,empagliflozin,219,15.57%,332.67
+1717704,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,valacyclovir,218,15.49%,269.92
+1501700,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",THYROID THERAPY,Thyroid hormones,levothyroxine,217,15.42%,451.91
+1308738,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",vitamin B12,216,15.35%,187.22
+46275719,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"Angiotensin II receptor blockers (ARBs), other combinations",sacubitril,215,15.28%,425.91
+939259,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,budesonide,213,15.14%,232.08
+43532539,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,vilanterol,208,14.78%,127.08
+952004,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,sevelamer,207,14.71%,176.51
+1510687,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,sodium zirconium cyclosilicate,206,14.64%,45.27
+917006,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,benzocaine,204,14.50%,23.82
+1716903,SENSORY ORGANS,OPHTHALMOLOGICALS,Fluoroquinolones,moxifloxacin,202,14.36%,25.15
+19012598,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other quaternary ammonium compounds,vecuronium,202,14.36%,1.52
+19003999,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,mycophenolate mofetil,201,14.29%,397.75
+951279,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,prilocaine,200,14.21%,198.01
+1398937,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,clonidine,199,14.14%,123.66
+715939,NERVOUS SYSTEM,PSYCHOANALEPTICS,Selective serotonin reuptake inhibitors,escitalopram,198,14.07%,261.53
+923540,NERVOUS SYSTEM,ANESTHETICS,Other local anesthetics,phenol,198,14.07%,37.44
+43012211,NA,NA,NA,formate,194,13.79%,3.3
+1836241,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,sulbactam,193,13.72%,4.01
+44506781,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,"Iron bivalent, oral preparations",ferrous carbonate,193,13.72%,10.16
+1107830,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Other antihistamines for systemic use,loratadine,192,13.65%,234.9
+915175,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,bacitracin,186,13.22%,33.41
+1310149,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Vitamin K antagonists,warfarin,183,13.01%,576.01
+750982,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,bupropion,179,12.72%,252.62
+19011773,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,ascorbic acid,177,12.58%,155.02
+734354,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,pregabalin,177,12.58%,279.62
+950637,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Calcineurin inhibitors,tacrolimus,177,12.58%,681.74
+942350,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,torsemide,175,12.44%,366.35
+1742253,SENSORY ORGANS,OPHTHALMOLOGICALS,Fluoroquinolones,levofloxacin,174,12.37%,63.54
+529303,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","diphtheria toxoid vaccine, inactivated",173,12.30%,2.58
+529411,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","tetanus toxoid vaccine, inactivated",173,12.30%,2.58
+781039,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,alprazolam,172,12.22%,189.18
+1746940,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,erythromycin,171,12.15%,118.72
+19050488,NERVOUS SYSTEM,ANESTHETICS,Other general anesthetics,etomidate,171,12.15%,0.97
+908523,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,mineral oil,171,12.15%,119.73
+1709170,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,meropenem,170,12.08%,11.47
+1799139,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Neuraminidase inhibitors,oseltamivir,166,11.80%,26.8
+793143,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",semaglutide,166,11.80%,288.54
+1301125,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,epoetin alfa,165,11.73%,69.95
+19126511,NA,NA,NA,gluconate,163,11.58%,2.37
+717136,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Anticholinesterases,neostigmine,161,11.44%,1.26
+1309944,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,"Antiarrhythmics, class III",amiodarone,160,11.37%,136.2
+19018544,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,calcium,160,11.37%,11.65
+19136247,ALIMENTARY TRACT AND METABOLISM,"DIGESTIVES, INCL. ENZYMES","Enzyme and acid preparations, combinations",sucrose,160,11.37%,4.8
+907879,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,miconazole,159,11.30%,98.5
+1103640,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,methadone,158,11.23%,74.45
+19087317,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,lanolin,157,11.16%,54.63
+939976,ALIMENTARY TRACT AND METABOLISM,MINERAL SUPPLEMENTS,Sodium,sodium sulfate,156,11.09%,74.39
+948856,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,polyvinyl alcohol,155,11.02%,73.35
+1036228,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,sucralfate,154,10.95%,92
+1303425,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Solutions for parenteral nutrition,tranexamic acid,154,10.95%,21.62
+918172,DERMATOLOGICALS,ANTI-ACNE PREPARATIONS,Peroxides,benzoyl peroxide,154,10.95%,147.17
+1500211,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",medroxyprogesterone,153,10.87%,177.16
+19046180,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Medical gases,carbon dioxide,153,10.87%,0.25
+701546,NA,NA,NA,Streptococcus pneumoniae serotype 10A capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701547,NA,NA,NA,Streptococcus pneumoniae serotype 11A capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701548,NA,NA,NA,Streptococcus pneumoniae serotype 12F capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701549,NA,NA,NA,Streptococcus pneumoniae serotype 15B capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701550,NA,NA,NA,Streptococcus pneumoniae serotype 8 capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701551,NA,NA,NA,Streptococcus pneumoniae serotype 33F capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+701552,NA,NA,NA,Streptococcus pneumoniae serotype 22F capsular antigen diphtheria CRM197 protein conjugate vaccine,153,10.87%,0
+1133201,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,buprenorphine,152,10.80%,217.39
+1137529,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,"Adrenergics in combination with corticosteroids or other drugs, excl. anticholinergics",salmeterol,152,10.80%,459.56
+1196677,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,formoterol,152,10.80%,241.75
+725131,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,mirtazapine,151,10.73%,170.97
+711584,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,levetiracetam,150,10.66%,303.3
+19049024,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS","ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS",Sulfur containing products,potassium,149,10.59%,3.74
+1322184,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,clopidogrel,147,10.45%,288.36
+1340128,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,ACE inhibitors and diuretics,captopril,147,10.45%,11.25
+19071160,VARIOUS,CONTRAST MEDIA,Ultrasound contrast media,perflutren,147,10.45%,0.33
+45892419,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,gentamicin,147,10.45%,69.99
+938205,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,camphor,147,10.45%,83.38
+1326115,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES,Oxytocin and analogues,oxytocin,143,10.16%,0.45
+766529,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,haloperidol,143,10.16%,14.1
+19054242,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,protamine sulfate (USP),141,10.02%,0.93
+925636,SENSORY ORGANS,OPHTHALMOLOGICALS,Sympathomimetics used as decongestants,oxymetazoline,141,10.02%,21.97
+1154161,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Leukotriene receptor antagonists,montelukast,140,9.95%,391.28
+1521369,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, sequential preparations",norethindrone,139,9.88%,377.71
+907013,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,metolazone,139,9.88%,74.6
+1000632,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,clotrimazole,138,9.81%,147.1
+1550023,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting",insulin lispro,137,9.74%,392.97
+965748,SENSORY ORGANS,OPHTHALMOLOGICALS,Anticholinergics,scopolamine,136,9.67%,52.95
+43012202,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Other diagnostic radiopharmaceuticals for tumour detection,fluorodeoxyglucose F18,135,9.59%,0.17
+785788,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,olanzapine,134,9.52%,96.07
+1736887,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,linezolid,132,9.38%,21.49
+19035631,DERMATOLOGICALS,"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","Corticosteroids, potent, other combinations",calcitriol,132,9.38%,266.72
+529218,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","acellular pertussis vaccine, inactivated",132,9.38%,3.26
+1174888,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,hydrocodone,128,9.10%,111.06
+1560278,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PANCREATIC HORMONES,Glycogenolytic hormones,glucagon,128,9.10%,155.44
+798874,NERVOUS SYSTEM,ANTIEPILEPTICS,Benzodiazepine derivatives,clonazepam,128,9.10%,160.42
+40241331,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Direct factor Xa inhibitors,rivaroxaban,127,9.03%,327.26
+920458,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,betamethasone,127,9.03%,113.25
+951469,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,calcium acetate,127,9.03%,189.14
+1337720,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,Adrenergic and dopaminergic agents,dobutamine,126,8.96%,8.59
+1308368,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Xanthines and adrenergics,midodrine,123,8.74%,119.43
+1510813,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,rosuvastatin,121,8.60%,382.95
+19063575,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,"Beta blocking agents, selective",esmolol,120,8.53%,0.42
+1703687,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,acyclovir,119,8.46%,157.84
+1106776,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,tiotropium,118,8.39%,268.64
+961047,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,H2-receptor antagonists,ranitidine,118,8.39%,440.36
+1777087,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,hydroxychloroquine,117,8.32%,535.18
+755695,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,fluoxetine,117,8.32%,341.26
+915981,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,neomycin,116,8.24%,58.02
+950056,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,povidone,116,8.24%,87.5
+1192218,NA,NA,NA,levalbuterol,115,8.17%,152.18
+1140643,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,sumatriptan,113,8.03%,273.37
+19090761,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,Other cardiac preparations,regadenoson,113,8.03%,0
+948582,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,polymyxin B,112,7.96%,59.51
+744740,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,zolpidem,111,7.89%,201
+19044727,BLOOD AND BLOOD FORMING ORGANS,ANTIHEMORRHAGICS,Vitamin K,vitamin K1,110,7.82%,7.32
+1550557,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,prednisolone,109,7.75%,129.11
+19018013,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,micafungin,109,7.75%,16.1
+914335,SENSORY ORGANS,OPHTHALMOLOGICALS,Anticholinergics,atropine,109,7.75%,45.34
+1781733,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,atovaquone,108,7.68%,147.11
+932745,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,bumetanide,108,7.68%,112.4
+1150345,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,Oxicams,meloxicam,107,7.61%,279.44
+1549786,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Estrogens,ethinyl estradiol,106,7.53%,469.4
+46234437,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,Other cardiac preparations,ivabradine,106,7.53%,27.41
+743670,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,venlafaxine,106,7.53%,295.88
+1778162,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefuroxime,105,7.46%,20.81
+19016749,NERVOUS SYSTEM,ANESTHETICS,Opioid anesthetics,remifentanil,104,7.39%,0.13
+44785829,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,dapagliflozin,104,7.39%,228.89
+986261,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,colloidal oatmeal,104,7.39%,60.45
+906072,SENSORY ORGANS,OPHTHALMOLOGICALS,Anticholinergics,tropicamide,103,7.32%,2.51
+1134439,VARIOUS,DIAGNOSTIC AGENTS,Tests for gastric secretion,caffeine,102,7.25%,114.66
+715233,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other centrally acting agents,baclofen,101,7.18%,261.25
+985708,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ketoconazole,101,7.18%,294.25
+1136487,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,ropivacaine,100,7.11%,1.44
+1769535,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefadroxil,100,7.11%,12.76
+528323,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined",hepatitis B surface antigen vaccine,100,7.11%,0.57
+1101554,MUSCULO-SKELETAL SYSTEM,ANTIGOUT PREPARATIONS,Preparations with no effect on uric acid metabolism,colchicine,97,6.89%,153.04
+1300673,BLOOD AND BLOOD FORMING ORGANS,ANTIHEMORRHAGICS,Blood coagulation factors,thrombin,97,6.89%,0.75
+1352890,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Blood substitutes and plasma protein fractions,dextran,97,6.89%,1.15
+1589505,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Emergency contraceptives,levonorgestrel,97,6.89%,226.66
+998415,SENSORY ORGANS,OPHTHALMOLOGICALS,"Corticosteroids, plain",clobetasol,97,6.89%,334.94
+44785907,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,umeclidinium,96,6.82%,260.72
+733301,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,buspirone,96,6.82%,235.9
+977968,RESPIRATORY SYSTEM,COUGH AND COLD PREPARATIONS,Opium derivatives and expectorants,sodium citrate,96,6.82%,19.87
+1139042,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,acetylcysteine,95,6.75%,30.18
+19117912,ANTIINFECTIVES FOR SYSTEMIC USE,IMMUNE SERA AND IMMUNOGLOBULINS,"Immunoglobulins, normal human",immunoglobulin G,94,6.68%,40.37
+778474,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other centrally acting agents,tizanidine,94,6.68%,232.02
+792777,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Varicella zoster vaccines,varicella zoster virus glycoprotein E,94,6.68%,7.04
+1118084,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,Coxibs,celecoxib,92,6.54%,114.57
+1717963,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ertapenem,91,6.47%,9.01
+37499271,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,remdesivir,91,6.47%,3.85
+779705,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Other blood glucose lowering drugs, excl. insulins",tirzepatide,91,6.47%,176.55
+742267,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,topiramate,89,6.33%,311.63
+933724,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIBACTERIALS FOR SYSTEMIC USE,Combinations of antibacterials,phenazopyridine,89,6.33%,63.61
+745466,NERVOUS SYSTEM,ANTIEPILEPTICS,Fatty acid derivatives,valproate,88,6.25%,177.37
+1748921,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",ritonavir,87,6.18%,191.81
+46221581,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",insulin isophane,87,6.18%,129.68
+929435,SENSORY ORGANS,OPHTHALMOLOGICALS,Carbonic anhydrase inhibitors,acetazolamide,87,6.18%,58.16
+961145,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,glycerin,87,6.18%,28.95
+994341,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Piperazine derivatives,meclizine,87,6.18%,186.42
+939881,NERVOUS SYSTEM,ANESTHETICS,Other local anesthetics,capsaicin,85,6.04%,106.21
+19008009,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES,ACTH,cosyntropin,84,5.97%,0.66
+710062,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,amitriptyline,83,5.90%,337.99
+1507835,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES,Vasopressin and analogues,vasopressin (USP),82,5.83%,2.2
+911064,DERMATOLOGICALS,MEDICATED DRESSINGS,Zinc bandages,zinc oxide,81,5.76%,132.38
+1548195,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Other diagnostic radiopharmaceuticals for tumour detection,estradiol,80,5.69%,423.6
+1383925,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Muscle relaxants,isosorbide dinitrate,79,5.62%,105.52
+1395058,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,chlorthalidone,79,5.62%,342.6
+19044522,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiinfectives,zinc sulfate,79,5.62%,87.91
+721724,NERVOUS SYSTEM,PSYCHOANALEPTICS,Non-selective monoamine reuptake inhibitors,nortriptyline,79,5.62%,322.69
+950435,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",citric acid,78,5.54%,29.93
+1150871,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,Acetic acid derivatives and related substances,misoprostol,77,5.47%,2.62
+980311,DERMATOLOGICALS,PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS,Proteolytic enzymes,collagenase,77,5.47%,66.56
+1703063,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,valganciclovir,76,5.40%,160.66
+902722,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,tobramycin,76,5.40%,130.54
+1526475,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Combinations of various lipid modifying agents,ezetimibe,75,5.33%,346.35
+1328165,CARDIOVASCULAR SYSTEM,CALCIUM CHANNEL BLOCKERS,Benzothiazepine derivatives,diltiazem,74,5.26%,223.08
+739323,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,droperidol,73,5.19%,1.29
+967861,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Salt solutions,magnesium citrate,73,5.19%,7.12
+1353766,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,"Beta blocking agents, non-selective, and thiazides",propranolol,72,5.12%,249.03
+702530,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Protease inhibitors,nirmatrelvir,71,5.05%,19.06
+1711759,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIMYCOBACTERIALS,Drugs for treatment of lepra,dapsone,70,4.98%,229.79
+1735947,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,rifaximin,70,4.98%,106.45
+934075,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiallergics,azelastine,70,4.98%,361.86
+957797,NA,NA,NA,psyllium,70,4.98%,75.71
+19127890,NA,NA,NA,inert ingredients,69,4.90%,439.13
+702774,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,mepivacaine,69,4.90%,0.47
+918906,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs for urinary frequency and incontinence,oxybutynin,69,4.90%,230.6
+780442,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,varenicline,68,4.83%,137.23
+1309204,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,adenosine,67,4.76%,0.28
+705103,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,lamotrigine,67,4.76%,238.06
+1153428,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Other antihistamines for systemic use,fexofenadine,66,4.69%,443.13
+1304643,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Other antianemic preparations,darbepoetin alfa,66,4.69%,69.49
+1383815,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,isosorbide,66,4.69%,291.53
+1304850,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSTIMULANTS,Colony stimulating factors,filgrastim,65,4.62%,49.55
+1548111,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",CALCIUM HOMEOSTASIS,Other anti-parathyroid agents,cinacalcet,65,4.62%,202.52
+40228152,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Direct thrombin inhibitors,dabigatran etexilate,64,4.55%,281.25
+45774435,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Glucagon-like peptide-1 (GLP-1) analogues,dulaglutide,64,4.55%,361.17
+937791,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,bismuth subsalicylate,64,4.55%,17.64
+757688,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,aripiprazole,63,4.48%,144.63
+966956,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,silver sulfadiazine,63,4.48%,180.35
+1715117,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,aztreonam,62,4.41%,9.43
+1750087,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,povidone-iodine,62,4.41%,13.96
+904453,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,Combinations for eradication of Helicobacter pylori,esomeprazole,62,4.41%,372.84
+929504,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,proparacaine,62,4.41%,1.63
+19027475,NA,NA,NA,potassium sulfate,61,4.33%,104.49
+19078126,VARIOUS,DIAGNOSTIC AGENTS,Tests for gastric secretion,sodium polystyrene sulfonate,61,4.33%,26.76
+1167322,MUSCULO-SKELETAL SYSTEM,ANTIGOUT PREPARATIONS,Preparations inhibiting uric acid production,allopurinol,59,4.19%,228.44
+1397141,SENSORY ORGANS,OPHTHALMOLOGICALS,Antineovascularisation agents,bevacizumab,59,4.19%,20.95
+19005046,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",ANTIPROTOZOALS,Other agents against amoebiasis and other protozoal diseases,pyridoxine,59,4.19%,189.48
+19054702,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Iodine (125I) compounds,fibrinogen,59,4.19%,0.11
+35605594,NA,NA,NA,fosaprepitant,59,4.19%,40.36
+994058,VARIOUS,DIAGNOSTIC AGENTS,Other diagnostic agents,mannitol,59,4.19%,0.35
+1703069,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",emtricitabine,58,4.12%,725.35
+1314273,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,CD20 (Clusters of Differentiation 20) inhibitors,rituximab,57,4.05%,19.4
+910232,SENSORY ORGANS,OPHTHALMOLOGICALS,Anticholinergics,cyclopentolate,57,4.05%,35.77
+1560171,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,glipizide,56,3.98%,409.21
+19014878,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Other immunosuppressants,azathioprine,55,3.91%,422.83
+903643,DERMATOLOGICALS,ANTI-ACNE PREPARATIONS,Retinoids for topical use in acne,tretinoin,55,3.91%,399.97
+722031,NERVOUS SYSTEM,PSYCHOANALEPTICS,Selective serotonin reuptake inhibitors,paroxetine,53,3.77%,309.1
+923081,SENSORY ORGANS,OPHTHALMOLOGICALS,Fluoroquinolones,ofloxacin,53,3.77%,49.92
+1307863,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,ACE inhibitors and calcium channel blockers,verapamil,52,3.70%,294.65
+1749008,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,cefpodoxime,52,3.70%,52.5
+42903718,NA,NA,NA,tartrate,52,3.70%,0.07
+1036884,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,tetracaine,51,3.62%,0.49
+1776684,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ceftazidime,51,3.62%,29.91
+19012565,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,mycophenolic acid,51,3.62%,372.16
+35605546,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",tenofovir alafenamide,51,3.62%,667.41
+949279,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,carboxymethylcellulose,51,3.62%,113.22
+950098,GENITO URINARY SYSTEM AND SEX HORMONES,GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS,Other antiinfectives and antiseptics,ciclopirox,51,3.62%,347.82
+1115572,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,beclomethasone,50,3.55%,410.55
+1719061,NA,NA,NA,oxychlorosene,50,3.55%,28.9
+1316262,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs used in erectile dysfunction,sildenafil,49,3.48%,284.92
+1724703,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,oxacillin,49,3.48%,25.74
+19025274,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Medical gases,oxygen,49,3.48%,206.02
+19058572,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Iron in other combinations,calcium citrate,49,3.48%,269.86
+735979,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,risperidone,49,3.48%,161.09
+949759,DERMATOLOGICALS,"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","Corticosteroids, potent (group III)",halobetasol,49,3.48%,343.05
+19028106,DERMATOLOGICALS,ANTISEPTICS AND DISINFECTANTS,Other antiseptics and disinfectants,isopropyl alcohol,48,3.41%,569.21
+45892474,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 31 vaccine",48,3.41%,0
+45892475,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 33 vaccine",48,3.41%,0
+45892476,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 45 vaccine",48,3.41%,0
+45892477,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 52 vaccine",48,3.41%,0
+45892478,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 58 vaccine",48,3.41%,0
+529076,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 11 vaccine",48,3.41%,0
+529112,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 16 vaccine",48,3.41%,0
+529114,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 18 vaccine",48,3.41%,0
+529116,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Papillomavirus vaccines,"L1 protein, human papillomavirus type 6 vaccine",48,3.41%,0
+797617,NERVOUS SYSTEM,PSYCHOANALEPTICS,Selective serotonin reuptake inhibitors,citalopram,48,3.41%,286.31
+1154332,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,pseudoephedrine,47,3.34%,187.79
+1305058,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Other immunosuppressants,methotrexate,47,3.34%,391.69
+915855,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiallergics,olopatadine,47,3.34%,143.36
+955252,DERMATOLOGICALS,"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","Corticosteroids, moderately potent, other combinations",fluocinonide,47,3.34%,448.27
+1347384,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"Angiotensin II receptor blockers (ARBs), other combinations",irbesartan,46,3.27%,231.03
+1363053,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Alpha-adrenoreceptor antagonists,doxazosin,46,3.27%,240.89
+1728416,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,penicillin G,46,3.27%,17.67
+42900505,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Other drugs for constipation,linaclotide,46,3.27%,337.62
+46221284,NA,NA,NA,isavuconazonium,46,3.27%,128.57
+924566,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Alpha-adrenoreceptor antagonists,tamsulosin,46,3.27%,182.1
+1517070,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES,Vasopressin and analogues,desmopressin,45,3.20%,14.39
+19010482,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,cyclosporine,45,3.20%,317.15
+941472,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,terconazole,45,3.20%,52.32
+1310317,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Nitrogen mustard analogues,cyclophosphamide,43,3.06%,38.23
+40241186,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,ticagrelor,43,3.06%,267.18
+992590,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,chlorothiazide,43,3.06%,5.69
+1326901,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS",ANTIPROTOZOALS,Other agents against amoebiasis and other protozoal diseases,papaverine,42,2.99%,1.16
+1555120,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,fludrocortisone,42,2.99%,265.09
+19068900,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,mycophenolate,42,2.99%,6.96
+42800417,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Other cardiovascular system diagnostic radiopharmaceuticals,ammonia,42,2.99%,0
+43560385,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",dolutegravir,42,2.99%,503.77
+1037005,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,dronabinol,41,2.91%,77.85
+1377141,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Other antineoplastic agents,hydroxyurea,41,2.91%,340.1
+1741309,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,terbinafine,41,2.91%,258.22
+19015726,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,Other quaternary ammonium compounds,cisatracurium,41,2.91%,0.48
+1314002,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,Beta blocking agents and calcium channel blockers,atenolol,40,2.84%,444.82
+1326303,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Nicotinic acid and derivatives,digoxin,40,2.84%,349.31
+1350489,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Alpha-adrenoreceptor antagonists and diuretics,prazosin,40,2.84%,174.54
+1519936,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Progestogens,etonogestrel,40,2.84%,138.31
+1704139,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,posaconazole,40,2.84%,92.74
+40170911,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",liraglutide,40,2.84%,399.31
+958999,NA,NA,NA,carbamide peroxide,40,2.84%,36.36
+1504620,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",THYROID THERAPY,Sulfur-containing imidazole derivatives,methimazole,39,2.77%,499.15
+1522957,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES,Somatostatin and analogues,octreotide,39,2.77%,31.09
+1729720,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,penicillin V,39,2.77%,131.08
+19073699,BLOOD AND BLOOD FORMING ORGANS,OTHER HEMATOLOGICAL AGENTS,Enzymes,hyaluronidase,39,2.77%,17.72
+988095,ALIMENTARY TRACT AND METABOLISM,BILE AND LIVER THERAPY,Bile acids and derivatives,ursodeoxycholate,39,2.77%,418.69
+19124906,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",magnesium,38,2.70%,9.07
+43012200,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Indium (111In) compounds,indium,38,2.70%,0.1
+1183554,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Non-selective beta-adrenoreceptor agonists,isoproterenol,37,2.63%,0.12
+1353228,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Nicotinic acid and derivatives,vitamin B6,37,2.63%,310.39
+1580747,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Dipeptidyl peptidase 4 (DPP-4) inhibitors,sitagliptin,37,2.63%,342.58
+35602717,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",insulin degludec,37,2.63%,438
+905233,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,mometasone,37,2.63%,207.4
+927478,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,pramoxine,37,2.63%,92.14
+990678,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,chlordiazepoxide,37,2.63%,32.32
+1836948,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,tetracycline,36,2.56%,35.35
+919204,ALIMENTARY TRACT AND METABOLISM,"DIGESTIVES, INCL. ENZYMES","Enzyme and acid preparations, combinations",amylase,36,2.56%,265.33
+931973,ALIMENTARY TRACT AND METABOLISM,"DIGESTIVES, INCL. ENZYMES","Enzyme and acid preparations, combinations",protease,36,2.56%,265.33
+964008,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",bictegravir,36,2.56%,520.43
+990760,ALIMENTARY TRACT AND METABOLISM,"DIGESTIVES, INCL. ENZYMES","Enzyme and acid preparations, combinations",lipase,36,2.56%,265.33
+1325608,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSTIMULANTS,Colony stimulating factors,pegfilgrastim,35,2.49%,56.23
+1368671,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,Phosphodiesterase inhibitors,milrinone,35,2.49%,7.54
+44507865,NA,NA,NA,prothrombin,35,2.49%,66.36
+996541,SENSORY ORGANS,OTOLOGICALS,Corticosteroids and antiinfectives in combination,fluocinolone,35,2.49%,374.02
+738818,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,doxylamine,34,2.42%,134.87
+1516976,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, long-acting",insulin detemir,33,2.34%,522.63
+1549080,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates","estrogens, conjugated (USP)",33,2.34%,221.73
+1786617,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,daptomycin,33,2.34%,14.6
+19087394,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,lacosamide,33,2.34%,167.68
+714785,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,amphetamine,33,2.34%,182.99
+719311,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,dextroamphetamine,33,2.34%,205.22
+1139699,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,butalbital,32,2.27%,360.4
+1400498,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,iron carbonyl,32,2.27%,207.44
+1552310,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, fixed combinations",progesterone,32,2.27%,268.54
+930916,ALIMENTARY TRACT AND METABOLISM,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",Antipropulsives,diphenoxylate,32,2.27%,93.79
+1714319,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Drugs used in alcohol dependence,naltrexone,31,2.20%,176.15
+19095309,VARIOUS,DIAGNOSTIC AGENTS,Tests for gastric secretion,cholestyramine resin,31,2.20%,132.88
+923672,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",hyoscyamine,31,2.20%,125.88
+986117,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiallergics,ketotifen,31,2.20%,537.95
+1136422,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Piperazine derivatives,levocetirizine,30,2.13%,502.79
+1336926,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs used in erectile dysfunction,tadalafil,30,2.13%,963.41
+1337860,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Xanthines and adrenergics,dopamine,30,2.13%,4.35
+1344905,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Platinum compounds,carboplatin,30,2.13%,36.33
+1381661,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,"Iron trivalent, oral preparations",iron-dextran complex,30,2.13%,1.78
+1396012,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,ferrous gluconate,30,2.13%,231.43
+1714277,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,voriconazole,30,2.13%,139.34
+1774932,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefotetan,30,2.13%,1.07
+19020994,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Nitroferricyanide derivatives,nitroprusside,30,2.13%,3.03
+1780601,VARIOUS,THERAPEUTIC RADIOPHARMACEUTICALS,Iodine (131I) compounds,iodine,29,2.06%,0.09
+902616,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,calamine,29,2.06%,46.09
+905518,VARIOUS,DIAGNOSTIC AGENTS,Tests for gastric secretion,methylene blue,29,2.06%,0.1
+927322,NA,NA,NA,potassium nitrate,29,2.06%,157.69
+1236744,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Selective beta-2-adrenoreceptor agonists,terbutaline,28,1.99%,0.31
+1354118,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,epoprostenol,28,1.99%,8.21
+1354698,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Detoxifying agents for antineoplastic treatment,mesna,28,1.99%,21
+1595799,DERMATOLOGICALS,ANTIPSORIATICS,Other antipsoriatics for systemic use,ferrous fumarate,28,1.99%,375.77
+1756831,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",darunavir,28,1.99%,708.43
+19011007,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Other respiratory system diagnostic radiopharmaceuticals,xenon,28,1.99%,0.56
+735340,ALIMENTARY TRACT AND METABOLISM,"ANTIOBESITY PREPARATIONS, EXCL. DIET PRODUCTS",Centrally acting antiobesity products,phentermine,28,1.99%,190.09
+902427,SENSORY ORGANS,OPHTHALMOLOGICALS,Beta blocking agents,timolol,28,1.99%,320.8
+917205,SENSORY ORGANS,OPHTHALMOLOGICALS,"Corticosteroids, plain",desonide,28,1.99%,265.03
+1515774,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, fixed combinations",norgestimate,27,1.92%,318.83
+1539403,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,simvastatin,27,1.92%,318.91
+1710281,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",tenofovir disoproxil,27,1.92%,393.88
+19069022,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Other diagnostic radiopharmaceuticals for tumour detection,sodium fluoride,27,1.92%,367.91
+902251,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,hypromellose,27,1.92%,268.21
+1305637,GENITO URINARY SYSTEM AND SEX HORMONES,OTHER GYNECOLOGICALS,"Ergot alkaloids and oxytocin incl. analogues, in combination",methylergonovine,26,1.85%,1.44
+1757803,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ganciclovir,26,1.85%,20.84
+19006410,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Detoxifying agents for antineoplastic treatment,arginine,26,1.85%,19.17
+19034726,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,sirolimus,26,1.85%,159.75
+909841,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Peripheral opioid receptor antagonists,methylnaltrexone,26,1.85%,9.03
+981709,SENSORY ORGANS,OPHTHALMOLOGICALS,Carbonic anhydrase inhibitors,dorzolamide,26,1.85%,361.98
+1000772,ALIMENTARY TRACT AND METABOLISM,ANTIEMETICS AND ANTINAUSEANTS,Serotonin (5HT3) antagonists,granisetron,25,1.78%,95.97
+1178663,MUSCULO-SKELETAL SYSTEM,TOPICAL PRODUCTS FOR JOINT AND MUSCULAR PAIN,"Antiinflammatory preparations, non-steroids for topical use",indomethacin,25,1.78%,83.03
+1378382,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Taxanes,paclitaxel,25,1.78%,82.47
+19037223,DERMATOLOGICALS,EMOLLIENTS AND PROTECTIVES,Protectives against UV-radiation for systemic use,beta carotene,25,1.78%,86.79
+40163661,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 1 capsular polysaccharide antigen,25,1.78%,14.4
+40163668,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 10A capsular polysaccharide antigen,25,1.78%,14.4
+40163670,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 11A capsular polysaccharide antigen,25,1.78%,14.4
+40163672,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 12F capsular polysaccharide antigen,25,1.78%,14.4
+40163674,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 14 capsular polysaccharide antigen,25,1.78%,14.4
+40163676,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 15B capsular polysaccharide antigen,25,1.78%,14.4
+40163678,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 17F capsular polysaccharide antigen,25,1.78%,14.4
+40163680,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 18C capsular polysaccharide antigen,25,1.78%,14.4
+40163682,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 19A capsular polysaccharide antigen,25,1.78%,14.4
+40163684,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 19F capsular polysaccharide antigen,25,1.78%,14.4
+40163686,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 2 capsular polysaccharide antigen,25,1.78%,14.4
+40163688,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 20 capsular polysaccharide antigen,25,1.78%,14.4
+40163690,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 22F capsular polysaccharide antigen,25,1.78%,14.4
+40163692,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 23F capsular polysaccharide antigen,25,1.78%,14.4
+40163694,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 3 capsular polysaccharide antigen,25,1.78%,14.4
+40163696,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 33F capsular polysaccharide antigen,25,1.78%,14.4
+40163698,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 4 capsular polysaccharide antigen,25,1.78%,14.4
+40163700,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 5 capsular polysaccharide antigen,25,1.78%,14.4
+40163702,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 6B capsular polysaccharide antigen,25,1.78%,14.4
+40163704,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 7F capsular polysaccharide antigen,25,1.78%,14.4
+40163706,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 8 capsular polysaccharide antigen,25,1.78%,14.4
+40163708,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 9N capsular polysaccharide antigen,25,1.78%,14.4
+40163710,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Pneumococcal vaccines,Streptococcus pneumoniae type 9V capsular polysaccharide antigen,25,1.78%,14.4
+42874220,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Other therapeutic products,cobicistat,25,1.78%,463.49
+718122,NERVOUS SYSTEM,ANTIEPILEPTICS,Carboxamide derivatives,oxcarbazepine,25,1.78%,269.76
+729855,MUSCULO-SKELETAL SYSTEM,MUSCLE RELAXANTS,"Other muscle relaxants, peripherally acting agents",botulinum toxin type A,25,1.78%,39.58
+954688,SENSORY ORGANS,OPHTHALMOLOGICALS,Prostaglandin analogues,latanoprost,25,1.78%,327.56
+1201042,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Other viral vaccines,respiratory syncytial virus pre-fusion F protein,24,1.71%,0
+1309068,DERMATOLOGICALS,OTHER DERMATOLOGICAL PREPARATIONS,Other dermatologicals,minoxidil,24,1.71%,170.2
+1337068,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Antihypertensives for pulmonary arterial hypertension,ambrisentan,24,1.71%,905.29
+1750500,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,clarithromycin,24,1.71%,32.72
+906914,VARIOUS,DIAGNOSTIC AGENTS,Other diagnostic agents,urea,24,1.71%,263.92
+1784444,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ivermectin,23,1.64%,94.08
+529660,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined",hepatitis A vaccine (inactivated) strain HM175,23,1.64%,0
+738156,NERVOUS SYSTEM,PSYCHOANALEPTICS,Non-selective monoamine reuptake inhibitors,doxepin,23,1.64%,290.22
+1300153,NA,NA,NA,racepinephrine,22,1.56%,1.57
+19067803,VARIOUS,DIAGNOSTIC AGENTS,Tests for bile duct patency,sincalide,22,1.56%,0
+45776202,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Various diagnostic radiopharmaceuticals,ferric citrate,22,1.56%,269.82
+719174,NERVOUS SYSTEM,ANTI-PARKINSON DRUGS,Ethers of tropine or tropine derivatives,benztropine,22,1.56%,171.78
+966913,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,silver nitrate,22,1.56%,20.39
+1517740,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",CALCIUM HOMEOSTASIS,Other anti-parathyroid agents,paricalcitol,21,1.49%,66.41
+1763204,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,rifampin,21,1.49%,79.42
+1786055,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Iron chelating agents,deferasirox,21,1.49%,347.8
+35602991,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,patiromer,21,1.49%,157.04
+40235242,NA,NA,NA,6-O-palmitoylascorbic acid,21,1.49%,442.92
+702536,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Nucleosides and nucleotides excl. reverse transcriptase inhibitors,molnupiravir,21,1.49%,8.7
+734275,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",phenobarbital,21,1.49%,59.38
+987366,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Other drugs for constipation,lubiprostone,21,1.49%,162.91
+1315946,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Aromatase inhibitors,letrozole,20,1.42%,300.76
+1341927,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,ACE inhibitors and calcium channel blockers,enalapril,20,1.42%,367.61
+1351541,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Gonadotropin releasing hormone analogues,leuprolide,20,1.42%,70.23
+1704183,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",lamivudine,20,1.42%,375.3
+40226742,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"Angiotensin II receptor blockers (ARBs), other combinations",olmesartan,20,1.42%,387.7
+45775636,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,meningococcal group B vaccine,20,1.42%,1.65
+530007,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined",Haemophilus influenzae b (Ross strain) capsular polysaccharide meningococcal protein conjugate vaccine,20,1.42%,0
+751246,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,lithium carbonate,20,1.42%,92.93
+759740,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Anticholinesterases,pyridostigmine,20,1.42%,414.23
+922868,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS","ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS","Pyrethrines, incl. synthetic compounds",permethrin,20,1.42%,18.5
+1354860,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,"Antiarrhythmics, class Ic",flecainide,19,1.35%,376.52
+1370109,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,"Beta blocking agents, non-selective, and thiazides",sotalol,19,1.35%,246.06
+19006155,SENSORY ORGANS,OPHTHALMOLOGICALS,Other surgical aids,trypan blue,19,1.35%,1.27
+19009540,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,vitamin E,19,1.35%,157.05
+19049909,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,potassium iodide,19,1.35%,15.1
+40171288,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Interleukin inhibitors,tocilizumab,19,1.35%,96.68
+44785066,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,sucroferric oxyhydroxide,19,1.35%,300.96
+929549,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,acetic acid,19,1.35%,5.54
+956653,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,fosfomycin,19,1.35%,77.75
+1119119,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Tumor necrosis factor alpha (TNF-alpha) inhibitors,adalimumab,18,1.28%,382
+1338512,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Anthracyclines and related substances,doxorubicin,18,1.28%,53.25
+19069049,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Other urologicals,collagen,18,1.28%,24.76
+40230761,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,lurasidone,18,1.28%,321.79
+702418,ANTIINFECTIVES FOR SYSTEMIC USE,IMMUNE SERA AND IMMUNOGLOBULINS,Antiviral monoclonal antibodies,tixagevimab,18,1.28%,1.13
+702423,NA,NA,NA,cilgavimab,18,1.28%,1.13
+915542,SENSORY ORGANS,OPHTHALMOLOGICALS,Sympathomimetics used as decongestants,brimonidine,18,1.28%,410.3
+1154077,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,rizatriptan,17,1.21%,373.47
+1300978,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Progestogens,megestrol,17,1.21%,232.25
+1708880,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,minocycline,17,1.21%,119.75
+19084670,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Direct thrombin inhibitors,bivalirudin,17,1.21%,4.15
+19106973,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Combinations of various lipid modifying agents,omega-3 fatty acids,17,1.21%,209
+42900491,NA,NA,NA,mebrofenin,17,1.21%,1.41
+955583,SENSORY ORGANS,OPHTHALMOLOGICALS,Corticosteroids/antiinfectives/mydriatics in combination,fluorometholone,17,1.21%,42.65
+996625,SENSORY ORGANS,OPHTHALMOLOGICALS,Colouring agents,fluorescein,17,1.21%,0.47
+1114122,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,nalbuphine,16,1.14%,0.5
+1315865,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Other antithrombotic agents,fondaparinux,16,1.14%,149.71
+1395557,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Purine analogues,fludarabine,16,1.14%,3.79
+792929,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Other antivirals,letermovir,16,1.14%,313.7
+904542,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,triamterene,16,1.14%,303
+952045,NA,NA,NA,amphotericin,16,1.14%,27.24
+981691,DERMATOLOGICALS,ANTIBIOTICS AND CHEMOTHERAPEUTICS FOR DERMATOLOGICAL USE,Antivirals,imiquimod,16,1.14%,355.3
+1309799,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,eplerenone,15,1.07%,352.88
+1337620,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Pyrimidine analogues,capecitabine,15,1.07%,235.84
+1351115,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,ubidecarenone,15,1.07%,206.59
+1593467,DERMATOLOGICALS,OTHER DERMATOLOGICAL PREPARATIONS,"Agents for dermatitis, excluding corticosteroids",dupilumab,15,1.07%,255.33
+1711246,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Nucleoside and nucleotide reverse transcriptase inhibitors,entecavir,15,1.07%,231.31
+1717240,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,amphotericin B,15,1.07%,40.25
+19007652,VARIOUS,CONTRAST MEDIA,Paramagnetic contrast media,gadobenate,15,1.07%,0.88
+19071128,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS","ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS","Other ectoparasiticides, incl. scabicides",copper,15,1.07%,77.78
+37497986,BLOOD AND BLOOD FORMING ORGANS,OTHER HEMATOLOGICAL AGENTS,Other hematological agents,voxelotor,15,1.07%,407.29
+40238930,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",rilpivirine,15,1.07%,333.94
+40244464,DERMATOLOGICALS,OTHER DERMATOLOGICAL PREPARATIONS,"Agents for dermatitis, excluding corticosteroids",ruxolitinib,15,1.07%,222.29
+42900108,NA,NA,NA,tetrofosmin,15,1.07%,0.11
+740275,NERVOUS SYSTEM,ANTIEPILEPTICS,Carboxamide derivatives,carbamazepine,15,1.07%,261.29
+793293,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,ertugliflozin,15,1.07%,237.94
+793843,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Antivirals for treatment of HCV infections,glecaprevir,15,1.07%,145.28
+793844,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,pibrentasvir,15,1.07%,145.28
+936748,ALIMENTARY TRACT AND METABOLISM,ANTIEMETICS AND ANTINAUSEANTS,Other antiemetics,aprepitant,15,1.07%,45
+937368,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Tumor necrosis factor alpha (TNF-alpha) inhibitors,infliximab,15,1.07%,21.87
+964407,SENSORY ORGANS,OTOLOGICALS,Corticosteroids and antiinfectives in combination,salicylic acid,15,1.07%,189.82
+1105775,RESPIRATORY SYSTEM,COUGH AND COLD PREPARATIONS,Opium derivatives and expectorants,aminophylline,14,1.00%,0
+1380068,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,interferon alfa-2b,14,1.00%,72.94
+1388796,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Detoxifying agents for antineoplastic treatment,leucovorin,14,1.00%,125.38
+1531601,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting","insulin aspart protamine, human",14,1.00%,324.18
+1551803,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Combinations of various lipid modifying agents,fenofibrate,14,1.00%,329.35
+1557272,MUSCULO-SKELETAL SYSTEM,DRUGS FOR TREATMENT OF BONE DISEASES,"Bisphosphonates, combinations",alendronate,14,1.00%,226.35
+1762711,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ribavirin,14,1.00%,69.78
+40220740,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,lifitegrast,14,1.00%,372.53
+40236987,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,belimumab,14,1.00%,197.13
+40244266,SENSORY ORGANS,OPHTHALMOLOGICALS,Antineovascularisation agents,aflibercept,14,1.00%,8.37
+44784806,DERMATOLOGICALS,ANTISEPTICS AND DISINFECTANTS,Other antiseptics and disinfectants,hypochlorite,14,1.00%,141.67
+523283,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","poliovirus vaccine inactivated, type 1 (Mahoney)",14,1.00%,0
+523365,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","poliovirus vaccine inactivated, type 2 (MEF-1)",14,1.00%,0
+523367,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,"Bacterial and viral vaccines, combined","poliovirus vaccine inactivated, type 3 (Saukett)",14,1.00%,0
+909440,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,methyl salicylate,14,1.00%,38.93
+955632,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Pyrimidine analogues,fluorouracil,14,1.00%,191.21
+1000979,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Other blood glucose lowering drugs, excl. insulins",guar gum,13,0.92%,100.29
+1192710,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,chlorpheniramine,13,0.92%,307
+1327256,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,treprostinil,13,0.92%,163.48
+1524674,MUSCULO-SKELETAL SYSTEM,DRUGS FOR TREATMENT OF BONE DISEASES,"Bisphosphonates, combinations",zoledronic acid,13,0.92%,54.48
+1537655,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",CALCIUM HOMEOSTASIS,Calcitonin preparations,salmon calcitonin,13,0.92%,85.79
+1775741,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,cefoxitin,13,0.92%,1.82
+19043959,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Drugs used in alcohol dependence,acamprosate,13,0.92%,100.86
+19049410,SENSORY ORGANS,OPHTHALMOLOGICALS,Local anesthetics,chloroprocaine,13,0.92%,3.19
+42903904,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiinfectives,silver chloride,13,0.92%,171.15
+709567,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,lisdexamfetamine,13,0.92%,225.71
+923840,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,dibucaine,13,0.92%,10.5
+991382,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,Angiotensin II receptor blockers (ARBs) and diuretics,amiloride,13,0.92%,249.63
+991855,ALIMENTARY TRACT AND METABOLISM,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",Antidiarrheal microorganisms,Saccharomyces boulardii,13,0.92%,38.31
+1101898,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,leflunomide,12,0.85%,266.27
+1314924,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Pyrimidine analogues,gemcitabine,12,0.85%,85.25
+1335471,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,ACE inhibitors and calcium channel blockers,benazepril,12,0.85%,698.54
+1356018,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Other drugs for constipation,prucalopride,12,0.85%,131.47
+40163731,NA,NA,NA,ferumoxytol,12,0.85%,6.57
+40230597,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ceftaroline,12,0.85%,39.75
+42873636,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs for urinary frequency and incontinence,mirabegron,12,0.85%,328.77
+45775116,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,olodaterol,12,0.85%,255.38
+45775965,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,pembrolizumab,12,0.85%,57.24
+713823,NERVOUS SYSTEM,ANTI-PARKINSON DRUGS,Dopamine agonists,ropinirole,12,0.85%,269.17
+968426,ALIMENTARY TRACT AND METABOLISM,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",Aminosalicylic acid and similar agents,mesalamine,12,0.85%,246.47
+1036525,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,sulfur,11,0.78%,110.92
+1111220,NA,NA,NA,arformoterol,11,0.78%,5.25
+1125443,RESPIRATORY SYSTEM,COUGH AND COLD PREPARATIONS,Other cough suppressants and expectorants,dornase alfa,11,0.78%,227.74
+1311078,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Combinations of antineoplastic agents,cytarabine,11,0.78%,26.58
+1313200,CARDIOVASCULAR SYSTEM,BETA BLOCKING AGENTS,"Beta blocking agents, non-selective, and thiazides",nadolol,11,0.78%,457.18
+1335539,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,phentolamine,11,0.78%,1.73
+1350504,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Podophyllotoxin derivatives,etoposide,11,0.78%,28.54
+1362979,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,"Antiarrhythmics, class III",dofetilide,11,0.78%,509.07
+1512674,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, fixed combinations",drospirenone,11,0.78%,309.42
+1558471,NERVOUS SYSTEM,ANTI-PARKINSON DRUGS,Dopamine agonists,cabergoline,11,0.78%,163.77
+1597756,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,glimepiride,11,0.78%,605.43
+1703653,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,itraconazole,11,0.78%,35.85
+1736971,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",abacavir,11,0.78%,189.95
+1782521,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,isoniazid,11,0.78%,242.46
+1790868,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,amikacin,11,0.78%,57.83
+19011440,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,everolimus,11,0.78%,750.71
+19039926,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,Proton pump inhibitors,dexlansoprazole,11,0.78%,349.8
+19049150,GENITO URINARY SYSTEM AND SEX HORMONES,OTHER GYNECOLOGICALS,Prostaglandins,carboprost,11,0.78%,0
+19070224,MUSCULO-SKELETAL SYSTEM,ANTIINFLAMMATORY AND ANTIRHEUMATIC PRODUCTS,"Other antiinflammatory and antirheumatic agents, non-steroids",soybean oil,11,0.78%,9.64
+19136207,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,"lymphocyte immune globulin, anti-thymocyte globulin",11,0.78%,0.55
+37498993,NERVOUS SYSTEM,ANALGESICS,Calcitonin gene-related peptide (CGRP) antagonists,rimegepant,11,0.78%,239.57
+40222444,MUSCULO-SKELETAL SYSTEM,DRUGS FOR TREATMENT OF BONE DISEASES,Other drugs affecting bone structure and mineralization,denosumab,11,0.78%,113.08
+43012944,NA,NA,NA,pyrophosphate,11,0.78%,0
+44785094,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,sofosbuvir,11,0.78%,127.82
+46287466,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Other lipid modifying agents,evolocumab,11,0.78%,187.21
+740910,NERVOUS SYSTEM,PSYCHOLEPTICS,"Hypnotics and sedatives in combination, excl. barbiturates",phenytoin,11,0.78%,171.06
+757352,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,eszopiclone,11,0.78%,313.15
+940864,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,econazole,11,0.78%,318.75
+979096,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,zinc acetate,11,0.78%,42.17
+1196514,RESPIRATORY SYSTEM,NASAL PREPARATIONS,Corticosteroids,flunisolide,10,0.71%,543.7
+1300751,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,polysaccharide iron complex,10,0.71%,325
+1337107,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,Other cardiac preparations,ranolazine,10,0.71%,323.25
+1351935,BLOOD AND BLOOD FORMING ORGANS,ANTIHEMORRHAGICS,Blood coagulation factors,factor IX,10,0.71%,0
+1369939,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Solutions for parenteral nutrition,6-aminocaproic acid,10,0.71%,83.3
+1521592,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, sequential preparations",norgestrel,10,0.71%,435.08
+1559684,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,glyburide,10,0.71%,526.75
+19010970,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,vitamin B complex,10,0.71%,269.08
+19078612,VARIOUS,DIAGNOSTIC AGENTS,Other diagnostic agents,indocyanine green,10,0.71%,0
+35200800,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,galcanezumab,10,0.71%,322.83
+37498244,NERVOUS SYSTEM,ANALGESICS,Calcitonin gene-related peptide (CGRP) antagonists,ubrogepant,10,0.71%,332.69
+42801108,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Enzymes,protein C,10,0.71%,0
+44507580,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Antihypertensives for pulmonary arterial hypertension,macitentan,10,0.71%,542.31
+44785020,BLOOD AND BLOOD FORMING ORGANS,ANTIHEMORRHAGICS,Blood coagulation factors,factor VII,10,0.71%,0
+44785022,BLOOD AND BLOOD FORMING ORGANS,ANTIHEMORRHAGICS,Blood coagulation factors,factor X,10,0.71%,0
+44785045,NA,NA,NA,protein S,10,0.71%,0
+46275447,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Other lipid modifying agents,alirocumab,10,0.71%,371
+535714,ANTIINFECTIVES FOR SYSTEMIC USE,IMMUNE SERA AND IMMUNOGLOBULINS,Specific immunoglobulins,Rho(D) immune globulin,10,0.71%,1.47
+904356,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Antiinfectives,methenamine,10,0.71%,319.36
+908464,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,magnesium carbonate,10,0.71%,140.75
+915935,DERMATOLOGICALS,OTHER DERMATOLOGICAL PREPARATIONS,"Agents for dermatitis, excluding corticosteroids",pimecrolimus,10,0.71%,408.91
+1110727,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Other antihistamines for systemic use,cyproheptadine,9,0.64%,184.41
+1351557,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,candesartan,9,0.64%,418
+1501309,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",THYROID THERAPY,Thyroid hormones,thyroid (USP),9,0.64%,242.47
+1554072,"SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS",THYROID THERAPY,Thiouracils,propylthiouracil,9,0.64%,38.5
+1563600,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Gonadotropins,chorionic gonadotropin,9,0.64%,70.75
+1713930,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,nafcillin,9,0.64%,17.6
+1724666,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,dicloxacillin,9,0.64%,63.21
+1749301,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ethambutol,9,0.64%,140.42
+1777417,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,rifabutin,9,0.64%,132.42
+19038440,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Interleukin inhibitors,basiliximab,9,0.64%,7.22
+40163718,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,prasugrel,9,0.64%,225.7
+40239985,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,fidaxomicin,9,0.64%,32.78
+42874212,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",elvitegravir,9,0.64%,454
+42874258,ALIMENTARY TRACT AND METABOLISM,MINERAL SUPPLEMENTS,Zinc,zinc glycinate,9,0.64%,393.4
+45775324,VARIOUS,CONTRAST MEDIA,"Watersoluble, nephrotropic, high osmolar X-ray contrast media",diatrizoic acid,9,0.64%,2.08
+45775550,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Antidotes,thiosulfate,9,0.64%,87.14
+724816,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,oxazepam,9,0.64%,11.86
+749910,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,carisoprodol,9,0.64%,385.91
+901318,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Iron in other combinations,sodium ascorbate,9,0.64%,52.7
+937439,NERVOUS SYSTEM,OTHER NERVOUS SYSTEM DRUGS,Choline esters,bethanechol,9,0.64%,139.27
+967562,NA,NA,NA,loteprednol etabonate,9,0.64%,97.38
+1125765,NERVOUS SYSTEM,ANALGESICS,Natural opium alkaloids,oxymorphone,8,0.57%,282.3
+1133732,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,butorphanol,8,0.57%,0.44
+1145513,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup A capsular polysaccharide tetanus toxoid protein conjugate vaccine,8,0.57%,0
+1145514,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup C capsular polysaccharide tetanus toxoid protein conjugate vaccine,8,0.57%,0
+1145515,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup W-135 capsular polysaccharide tetanus toxoid protein conjugate vaccine,8,0.57%,0
+1145516,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup Y capsular polysaccharide tetanus toxoid protein conjugate vaccine,8,0.57%,0
+1146633,NERVOUS SYSTEM,PSYCHOLEPTICS,Benzodiazepine derivatives,remimazolam,8,0.57%,0
+1338005,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"ACE inhibitors, other combinations",bisoprolol,8,0.57%,192.75
+1348265,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Aromatase inhibitors,anastrozole,8,0.57%,649.83
+1397599,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Platinum compounds,cisplatin,8,0.57%,43.36
+1436169,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Heparin group,antithrombin III,8,0.57%,0
+1436678,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Anti-estrogens,tamoxifen,8,0.57%,719.4
+1510467,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,erenumab,8,0.57%,353.1
+19060985,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Vitamin B12 (cyanocobalamin and analogues),glutamine,8,0.57%,235.22
+19095786,NA,NA,NA,ferric subsulfate solution,8,0.57%,0
+40239216,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Dipeptidyl peptidase 4 (DPP-4) inhibitors,linagliptin,8,0.57%,389.5
+523212,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Rubella vaccines,rubella virus vaccine live (Wistar RA 27-3 strain),8,0.57%,0
+529713,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Mumps vaccines,"mumps virus vaccine live, Jeryl Lynn strain",8,0.57%,0
+532272,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Rubella vaccines,"measles virus vaccine live, Enders' attenuated Edmonston strain",8,0.57%,0
+701982,NERVOUS SYSTEM,ANALGESICS,Calcitonin gene-related peptide (CGRP) antagonists,atogepant,8,0.57%,350.67
+703244,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,paliperidone,8,0.57%,112.67
+712615,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,ziprasidone,8,0.57%,146.23
+780369,NA,NA,NA,metaxalone,8,0.57%,95.67
+913782,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs for urinary frequency and incontinence,tolterodine,8,0.57%,137.17
+963742,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,gramicidin,8,0.57%,49.5
+981774,DERMATOLOGICALS,ANTI-ACNE PREPARATIONS,Retinoids for topical use in acne,adapalene,8,0.57%,590.25
+1036252,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,sulfacetamide,7,0.50%,335.5
+1304919,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Folic acid analogues,pemetrexed,7,0.50%,45.55
+1307542,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,"Antiarrhythmics, class Ib",mexiletine,7,0.50%,131.29
+1317640,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Lipid modifying agents in combination with other drugs,telmisartan,7,0.50%,489.57
+1322081,SENSORY ORGANS,OPHTHALMOLOGICALS,Beta blocking agents,betaxolol,7,0.50%,0
+1399177,NA,NA,NA,sodium ferric gluconate complex,7,0.50%,36.86
+1513876,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,"Insulins and analogues for injection, intermediate- or long-acting combined with fast-acting","insulin lispro protamine, human",7,0.50%,359.5
+1525215,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Thiazolidinediones,pioglitazone,7,0.50%,342.29
+1553610,ALIMENTARY TRACT AND METABOLISM,OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS,Amino acids and derivatives,levocarnitine,7,0.50%,32.17
+1560305,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,omega-3 acid ethyl esters (USP),7,0.50%,299.88
+1588712,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Gonadotropins,follicle stimulating hormone,7,0.50%,155.6
+1589795,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Gonadotropins,luteinizing hormone,7,0.50%,155.6
+1712889,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,"Antivirals for treatment of HIV infections, combinations",raltegravir,7,0.50%,778.78
+19000811,GENITO URINARY SYSTEM AND SEX HORMONES,GYNECOLOGICAL ANTIINFECTIVES AND ANTISEPTICS,Other antiinfectives and antiseptics,Lacticaseibacillus rhamnosus,7,0.50%,366.2
+19010309,DERMATOLOGICALS,ANTISEPTICS AND DISINFECTANTS,Biguanides and amidines,water,7,0.50%,0
+19062817,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,riboflavin,7,0.50%,543.43
+19087208,NA,NA,NA,lactose,7,0.50%,180.14
+40163615,CARDIOVASCULAR SYSTEM,CARDIAC THERAPY,"Antiarrhythmics, class III",dronedarone,7,0.50%,409.63
+40170444,NA,NA,NA,banana allergenic extract,7,0.50%,127.29
+42709323,RESPIRATORY SYSTEM,OTHER RESPIRATORY SYSTEM PRODUCTS,Other respiratory system products,ivacaftor,7,0.50%,261
+42874054,VARIOUS,DIAGNOSTIC RADIOPHARMACEUTICALS,Technetium (99mTc) compounds,oxidronate,7,0.50%,0
+42899412,ALIMENTARY TRACT AND METABOLISM,MINERAL SUPPLEMENTS,Magnesium,magnesium ascorbate,7,0.50%,465.86
+42900448,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,olive oil,7,0.50%,15.43
+42904205,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,IMMUNOSUPPRESSANTS,Selective immunosuppressants,tofacitinib,7,0.50%,552.44
+42904214,NA,NA,NA,levulinate,7,0.50%,95.1
+43526465,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Combinations of oral blood glucose lowering drugs,canagliflozin,7,0.50%,166.5
+44506752,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Antihypertensives for pulmonary arterial hypertension,riociguat,7,0.50%,437.55
+45774613,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR CONSTIPATION,Peripheral opioid receptor antagonists,naloxegol,7,0.50%,147.36
+45775020,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,ledipasvir,7,0.50%,128
+45775080,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,efinaconazole,7,0.50%,483.71
+46275677,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,cangrelor,7,0.50%,13.75
+705944,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,methylphenidate,7,0.50%,441.5
+710650,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,modafinil,7,0.50%,651.75
+720810,NERVOUS SYSTEM,ANTI-PARKINSON DRUGS,Dopamine agonists,pramipexole,7,0.50%,437.5
+735850,"ANTIPARASITIC PRODUCTS, INSECTICIDES AND REPELLENTS","ECTOPARASITICIDES, INCL. SCABICIDES, INSECTICIDES AND REPELLENTS",Sulfur containing products,disulfiram,7,0.50%,397.88
+739902,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Other viral vaccines,"SARS-COV-2 (COVID-19) vaccine, vector non-replicating",7,0.50%,0
+744798,NERVOUS SYSTEM,ANTIEPILEPTICS,Other antiepileptics,zonisamide,7,0.50%,717.5
+787787,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,hyaluronate,7,0.50%,42.35
+962398,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,glycine,7,0.50%,1.38
+976778,NERVOUS SYSTEM,ANALGESICS,Salicylic acid and derivatives,hydroquinone,7,0.50%,614.86
+990028,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Drugs for treatment of hyperkalemia and hyperphosphatemia,lanthanum carbonate,7,0.50%,195.63
+1102527,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,meperidine,6,0.43%,0
+1118117,SENSORY ORGANS,OTOLOGICALS,Analgesics and anesthetics,naratriptan,6,0.43%,616.29
+1152631,SENSORY ORGANS,OPHTHALMOLOGICALS,Other antiallergics,cromolyn,6,0.43%,808.43
+1319133,CARDIOVASCULAR SYSTEM,CALCIUM CHANNEL BLOCKERS,Dihydropyridine derivatives,nimodipine,6,0.43%,13
+1319156,SENSORY ORGANS,OPHTHALMOLOGICALS,Other ophthalmologicals,dextran 70,6,0.43%,509.17
+1334456,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,"ACE inhibitors, other combinations",ramipril,6,0.43%,414.29
+1336825,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Proteasome inhibitors,bortezomib,6,0.43%,142.17
+1342001,CARDIOVASCULAR SYSTEM,AGENTS ACTING ON THE RENIN-ANGIOTENSIN SYSTEM,ACE inhibitors and calcium channel blockers,enalaprilat,6,0.43%,6.17
+1366310,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ENDOCRINE THERAPY,Gonadotropin releasing hormone analogues,goserelin,6,0.43%,46.79
+1367268,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Topoisomerase 1 (TOP1) inhibitors,irinotecan,6,0.43%,104.6
+1387104,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Combinations of antineoplastic agents,trastuzumab,6,0.43%,81.14
+1511646,MUSCULO-SKELETAL SYSTEM,DRUGS FOR TREATMENT OF BONE DISEASES,Bisphosphonates,pamidronate,6,0.43%,6.13
+1518198,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,"Progestogens and estrogens, fixed combinations",norelgestromin,6,0.43%,556.43
+1542948,GENITO URINARY SYSTEM AND SEX HORMONES,SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM,Gonadotropins,follitropin alfa,6,0.43%,146.13
+1558242,CARDIOVASCULAR SYSTEM,LIPID MODIFYING AGENTS,Fibrates,gemfibrozil,6,0.43%,355
+1711947,VARIOUS,ALL OTHER THERAPEUTIC PRODUCTS,Iron chelating agents,deferoxamine,6,0.43%,33.94
+1740226,DERMATOLOGICALS,PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS,Other cicatrizants,cadexomer iodine,6,0.43%,65.5
+1758536,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Non-nucleoside reverse transcriptase inhibitors,etravirine,6,0.43%,787.1
+1792429,SENSORY ORGANS,OPHTHALMOLOGICAL AND OTOLOGICAL PREPARATIONS,Corticosteroids and antiinfectives in combination,proguanil,6,0.43%,81.86
+19024770,BLOOD AND BLOOD FORMING ORGANS,ANTIANEMIC PREPARATIONS,Folic acid and derivatives,biotin,6,0.43%,467.89
+19092377,BLOOD AND BLOOD FORMING ORGANS,BLOOD SUBSTITUTES AND PERFUSION SOLUTIONS,Amino acids,lysine,6,0.43%,0.3
+19097468,NA,NA,NA,gadopentetate dimeglumine,6,0.43%,0
+35604848,BLOOD AND BLOOD FORMING ORGANS,ANTITHROMBOTIC AGENTS,Platelet aggregation inhibitors excl. heparin,selexipag,6,0.43%,349
+35606631,RESPIRATORY SYSTEM,DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES,Other systemic drugs for obstructive airway diseases,mepolizumab,6,0.43%,915.5
+37497446,NA,NA,NA,elexacaftor,6,0.43%,268
+40161805,VARIOUS,ALLERGENS,Allergen extracts,hog epithelia extract,6,0.43%,0
+42609512,CARDIOVASCULAR SYSTEM,ANTIHYPERTENSIVES,Antihypertensives for pulmonary arterial hypertension,sotatercept,6,0.43%,321.17
+42900551,NA,NA,NA,xanthan gum,6,0.43%,5
+43012191,NA,NA,NA,diamond,6,0.43%,121.17
+43013884,ALIMENTARY TRACT AND METABOLISM,DRUGS USED IN DIABETES,Dipeptidyl peptidase 4 (DPP-4) inhibitors,alogliptin,6,0.43%,259.83
+45892075,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,Cyclin-dependent kinase (CDK) inhibitors,palbociclib,6,0.43%,361.14
+45892628,ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS,ANTINEOPLASTIC AGENTS,PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors,nivolumab,6,0.43%,42
+46221507,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIBACTERIALS FOR SYSTEMIC USE,Other cephalosporins and penems,avibactam,6,0.43%,9.67
+528271,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup A capsular polysaccharide diphtheria toxoid protein conjugate vaccine,6,0.43%,0
+528295,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup C capsular polysaccharide diphtheria toxoid protein conjugate vaccine,6,0.43%,0
+528297,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup W-135 capsular polysaccharide diphtheria toxoid protein conjugate vaccine,6,0.43%,0
+528301,ANTIINFECTIVES FOR SYSTEMIC USE,VACCINES,Meningococcal vaccines,Neisseria meningitidis serogroup Y capsular polysaccharide diphtheria toxoid protein conjugate vaccine,6,0.43%,0
+717607,NERVOUS SYSTEM,PSYCHOANALEPTICS,Other antidepressants,desvenlafaxine,6,0.43%,261.75
+730548,NERVOUS SYSTEM,ANTI-PARKINSON DRUGS,Dopamine agonists,bromocriptine,6,0.43%,320.56
+739588,ANTIINFECTIVES FOR SYSTEMIC USE,ANTIVIRALS FOR SYSTEMIC USE,Integrase inhibitors,cabotegravir,6,0.43%,79.65
+742185,NERVOUS SYSTEM,PSYCHOANALEPTICS,Centrally acting sympathomimetics,atomoxetine,6,0.43%,221.71
+751412,NERVOUS SYSTEM,PSYCHOANALEPTICS,Selective serotonin reuptake inhibitors,fluvoxamine,6,0.43%,577.43
+756018,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,fluphenazine,6,0.43%,11.22
+794852,NERVOUS SYSTEM,PSYCHOANALEPTICS,Antidepressants in combination with psycholeptics,chlorpromazine,6,0.43%,413.17
+908921,DERMATOLOGICALS,"CORTICOSTEROIDS, DERMATOLOGICAL PREPARATIONS","Corticosteroids, potent, other combinations",calcipotriene,6,0.43%,343.89
+911735,ALIMENTARY TRACT AND METABOLISM,DRUGS FOR ACID RELATED DISORDERS,Combinations for eradication of Helicobacter pylori,rabeprazole,6,0.43%,827
+916005,GENITO URINARY SYSTEM AND SEX HORMONES,UROLOGICALS,Drugs for urinary frequency and incontinence,solifenacin,6,0.43%,101
+942799,RESPIRATORY SYSTEM,ANTIHISTAMINES FOR SYSTEMIC USE,Aminoalkyl ethers,trimethobenzamide,6,0.43%,53.67
+951112,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,cocoa butter,6,0.43%,13
+959196,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,witch hazel,6,0.43%,58.43
+961304,CARDIOVASCULAR SYSTEM,VASOPROTECTIVES,Other agents for treatment of hemorrhoids and anal fissures for topical use,shark liver oil,6,0.43%,13.17
+963950,NA,NA,NA,tezacaftor,6,0.43%,294.67
+964339,ALIMENTARY TRACT AND METABOLISM,"ANTIDIARRHEALS, INTESTINAL ANTIINFLAMMATORY/ANTIINFECTIVE AGENTS",Aminosalicylic acid and similar agents,sulfasalazine,6,0.43%,99.14
+991825,NERVOUS SYSTEM,ANALGESICS,Opioids in combination with antispasmodics,trospium,6,0.43%,182.5

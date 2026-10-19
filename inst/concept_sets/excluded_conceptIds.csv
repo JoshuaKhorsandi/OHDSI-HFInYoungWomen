@@ -1,0 +1,11 @@
+Concept Id,Name,Person Count,Prevalence,Length of Era
+316139,Heart failure,"3,768",58.34%,4.73
+319835,Congestive heart failure,"3,647",56.46%,9.75
+2313816,"Current Procedural Terminology version 4 (AMA) 93010: Electrocardiogram, routine ECG with at least 12 leads; interpretation and report only","5,102",78.99%,18.23
+2313869,"Current Procedural Terminology version 4 (AMA) 93306: Echocardiography, transthoracic, real-time with image documentation (2D), includes M-mode recording, when performed, complete, with spectral Doppler echocardiography, and with color flow Doppler echocardiography","4,724",73.14%,3.89
+2514409,"Current Procedural Terminology version 4 (AMA) 99233: Subsequent hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date o...","3,766",58.31%,30
+2514408,"Current Procedural Terminology version 4 (AMA) 99232: Subsequent hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the da...","3,409",52.78%,17.5
+2514406,"Current Procedural Terminology version 4 (AMA) 99223: Initial hospital inpatient or observation care, per day, for the evaluation and management of a patient, which requires a medically appropriate history and/or examination and high level of medical decision making. When using total time on the date of t...","3,265",50.55%,4.61
+2414397,"observation any time prior through 30 days relative to index: Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or examination and low level of medical decision making. When using total time on the date of the encounter",,,
+2414398,"observation any time prior through 30 days relative to index: Office or other outpatient visit for the evaluation and management of an established patient, which requires a medically appropriate history and/or examination and moderate level of medical decision making. When using total time on the date of the enco...",,,
+2514441,,,,

@@ -1,0 +1,262 @@
+Feature,Type,concept_id,Vocabulary
+Systemic lupus erythematosus,Condition,257628,SNOMED
+Rheumatoid arthritis,Condition,80809,SNOMED
+Antiphospholipid syndrome,Condition,4098292,SNOMED
+Systemic sclerosis,Condition,134442,SNOMED
+Autoimmune disease,Condition,434621,SNOMED
+Sarcoidosis,Condition,438688,SNOMED
+Amyloidosis,Condition,432595,SNOMED
+Obesity,Condition,433736,SNOMED
+Hypercholesterolemia,Condition,4029305,SNOMED
+Carotid artery stenosis,Condition,442615,SNOMED
+Peripheral vascular disease,Condition,321052,SNOMED
+Chronic kidney disease,Condition,46271022,SNOMED
+Chronic kidney disease stage 3,Condition,443597,SNOMED
+Chronic kidney disease stage 4,Condition,443612,SNOMED
+Chronic kidney disease stage 5,Condition,443611,SNOMED
+Anemia,Condition,439777,SNOMED
+Alcohol abuse,Condition,433753,SNOMED
+Nicotine dependence,Condition,4209423,SNOMED
+Anxiety disorder,Condition,442077,SNOMED
+Palpitations,Condition,315078,SNOMED
+Cough,Condition,254761,SNOMED
+Dyspnea,Condition,312437,SNOMED
+Chest pain,Condition,77670,SNOMED
+Syncope,Condition,135360,SNOMED
+Edema,Condition,4196943,SNOMED
+Pulmonary hypertension,Condition,4322024,SNOMED
+Iron deficiency,Condition,4146209,SNOMED
+Sleep apnea,Condition,313459,SNOMED
+Hypertension,Condition,320128,
+Type 2 diabetes mellitus,Condition,201826,
+Type 2 diabetes mellitus,Condition,2549878,
+Type 2 diabetes mellitus,Condition,4193074,
+Cerebral infarction,Condition,443454,
+Hypertensive chronic kidney disease,Condition,44782429,
+Bilateral carotid artery stenosis,Condition,37204002,
+Atherosclerosis of aorta,Condition,312934,
+Hyperlipidemia,Condition,438720,
+Hyperlipidemia,Condition,432867,
+NSTEMI,Condition,4270024,
+MI,Condition,312327,
+MI,Condition,314666,
+MI,Condition,4270024,
+MI,Condition,4296653,
+MI,Condition,37309626,
+MI,Condition,312327,
+MI,Condition,43020460,
+MI,Condition,46270163,
+MI,Condition,4329847,
+Prior CABG,Condition,4336464,
+Prior CABG,Condition,443563,
+Prior CABG,Condition,42537729,
+Prior PCI,Procedure,43527998,
+Prior PCI,Procedure,43528002,
+Prior PCI,Procedure,43533247,
+Prior PCI,Procedure,43527908,
+Prior PCI,Procedure,43527994,
+Prior PCI,Procedure,43527999,
+Rheumatic mitral valve disease,Condition,4222174,
+Rheumatic tricuspid regurgitation,Condition,4195677,
+Mitral valve prolapse,Condition,4108815,
+Mitral valve prolapse,Condition,4252872,
+Paroxysmal atrial fibrillation,Condition,4154290,SNOMED
+Persistent atrial fibrillation,Condition,4232697,SNOMED
+Atrial fibrillation,Condition,313217,SNOMED
+Atrial fibrillation,Condition,4141360,SNOMED
+Atrial flutter,Condition,314665,SNOMED
+Atrial flutter,Condition,36714994,SNOMED
+Atrial flutter,Condition,36712986,SNOMED
+SVT,Condition,4275423,
+VT,Condition,4103295,
+Chronic diastolic heart failure,Condition,40479576,SNOMED
+Chronic diastolic heart failure,Condition,443587,SNOMED
+Chronic diastolic heart failure,Condition,40481043,SNOMED
+Discordant ventriculoarterial connection,Condition,432431,SNOMED
+Ventricular septal defect,Condition,434462,SNOMED
+Preterm labor with preterm delivery,Condition,36712703,SNOMED
+Preterm labor with preterm delivery,Condition,45757176,SNOMED
+Female infertility,Condition,201909,SNOMED
+Endometriosis,Condition,4244991,SNOMED
+Endometriosis,Condition,433527,SNOMED
+Type 2 diabetes mellitus,Condition,201826,
+Type 1 diabetes mellitus,Condition,201254,
+Chronic kidney disease due to type 2 diabetes,Condition,43531578,ICD10CM
+Proliferative retinopathy due to type 2 diabetes,Condition,43530685,
+Pulmonary embolism,Condition,440417,
+Thromboembolism of vein,Condition,4327889,
+Malignancy,Condition,438701,
+Malignancy,Condition,37153816,
+Prediabetes,Condition,37018196,
+COPD,Condition,255573,
+Asthma,Condition,317009,
+Asthma,Condition,45768910,
+Asthma,Condition,4146581,
+Asthma,Condition,45768964,
+Asthma,Condition,45768963,
+Asthma,Condition,257581,
+Interstitial lung disease,Condition,4119786,
+Pulmonary hypertension,Condition,4322024,
+HIV,Observation,42742380,
+HIV,Observation,40479328,
+Migraine,Condition,318736,
+"Major depression, single episode",Condition,4282096,
+"Major depression, single episode",Condition,441534,
+Moderate recurrent major depression,Condition,4077577,
+Severe recurrent major depression without psychotic features,Condition,435220,
+Recurrent major depression,Condition,4282316,
+Recurrent major depression,Condition,4141454,
+Recurrent major depression,Condition,4228802,
+"Recurrent major depressive episodes, severe with psychosis",Condition,434911,
+Bipolar disorder,Condition,436665,
+Schizophrenia,Condition,435783,
+Substance use therapy,Procedure,4297063,
+Atherosclerosis of coronary artery without angina pectoris,Condition,764123,
+Chronic ischemic heart disease,Condition,315286,
+Non-rheumatic mitral valve disease,Condition,45769461,
+Rheumatic mitral stenosis,Condition,4313828,
+Rheumatic mitral stenosis,Condition,4301373,
+Non-rheumatic mitral valve stenosis,Condition,4110937,
+Rheumatic aortic stenosis,Condition,313221,
+Supravalvular aortic stenosis,Condition,4147787,
+Aortic valve stenosis with insufficiency,Condition,4111099,
+Aortic valve stenosis,Condition,4189343,
+Aortic valve stenosis,Condition,3654576,
+Aortic valve stenosis,Condition,3654574,
+Aortic valve stenosis,Condition,3654575,
+Rheumatic aortic regurgitation,Condition,439834,
+Aortic valve regurgitation,Condition,315564,
+Tricuspid valve disorder,Condition,4108817,
+Endocarditis,Condition,4232337,
+Endocarditis,Condition,4119460,
+Cardiac arrhythmia,Condition,44784217,
+Ventricular fibrillation,Condition,437894,
+Long QT,Condition,314664,
+Cardiomyopathy,Condition,321319,
+Dilated cardiomyopathy,Condition,4163710,
+Cardiomyopathy associated with another disorder,Condition,320746,
+Hypertrophic cardiomyopathy,Condition,4124693,
+Hypertrophic cardiomyopathy without obstruction,,4108236,
+Hypertrophic obstructive cardiomyopathy,Condition,316428,
+Takotsubo cardiomyopathy,Condition,40479589,
+Restrictive cardiomyopathy,Condition,4190773,
+Dilated peripartum cardiomyopathy,Condition,4037495,
+Alcoholic cardiomyopathy,Condition,37164777,
+Postpartum cardiomyopathy,Condition,312383,
+Cardiomyopathy due to viral infection,Condition,45757557,
+Primary eosinophilic endomyocardial restrictive cardiomyopathy,Condition,4141588,
+Restrictive cardiomyopathy with endomyocardial fibrosis,Condition,4162674,
+Dilated cardiomyopathy due to nutritional deficiency,Condition,4224935,
+Left ventricular myocardial noncompaction cardiomyopathy,Condition,40487105,
+Cardiomyopathy caused by drug,Condition,35615148,
+Valvular cardiomyopathy,Condition,43020654,
+Cardiomyopathy in Duchenne muscular dystrophy,Condition,4154093,
+Myocarditis,Condition,314383,
+Myocarditis,Condition,312653,
+Myocarditis,Condition,4143969,
+Myocarditis,Condition,4231274,
+Myocarditis,Condition,4331309,
+Congenital heart disease,Condition,312723,
+Congenital heart block,Condition,315069,
+Tetralogy of Fallot,Condition,320835,
+Ostium secundum type atrial septal defect,Condition,434467,
+Congenital insufficiency of aortic valve,Condition,321107,
+Congenital malformation,Condition,4079975,
+Congenital anomaly of coronary artery,Condition,321109,
+Hypoplastic left heart syndrome,Condition,440207,
+Congenital insufficiency of mitral valve,Condition,313007,
+Congenital stenosis of pulmonary valve,Condition,313005,
+AV septal defect and common AV junction,Condition,4100152,
+Pre-eclampsia,Condition,439393,
+Pre-eclampsia,Condition,433536,
+Pre-eclampsia,Condition,141084,
+Pre-eclampsia,Condition,443700,
+Pre-eclampsia,Condition,4116344,
+Pre-eclampsia,Condition,137613,
+Pre-eclampsia,Condition,4034096,
+Pregnancy-induced hypertension,Condition,4167493,
+Polycystic ovary syndrome,Condition,40443308,
+Premature menopause,Observation,198715,
+Breast cancer,Condition,81251,
+Premature ovarian failure,Condition,4028935,
+Premature ovarian failure,Condition,4279913,
+Postpartum hemorrhage,Condition,443929,
+statin,Drug,21601855,ATC
+Beta-blocker,Drug,21601665,ATC
+diuretic,Drug,21601461,ATC
+Aldosterone antagonist,Drug,21601533,ATC
+Metformin,Drug,1503297,RxNorm
+Insulin,Drug,21600713,ATC
+PCSK9i,Drug,723707,EphMRA ATC
+Ezetimibe,Drug,1526475,RxNorm
+Hydralazine,Drug,1373928,RxNorm
+Isosorbide dinitrate,Drug,1383925,RxNorm
+Digoxin,Drug,1326303,RxNorm
+ARNi,Drug,46275719,RxNorm
+ACEi,Drug,21601784,ATC
+SGLT2i,Drug,1123627,ATC
+GLP-1 receptor agonist,Drug,1123618,ATC
+estrogen,Drug,21602514,ATC
+Oral contraceptive,Drug,21602472,ATC
+ARB,Drug,21601823,ATC
+aspirin,Drug,1112807,RxNorm
+clopidogrel,Drug,1322184,RxNorm
+ticagrelor,Drug,40241186,RxNorm
+prasugrel,Drug,40163718,RxNorm
+warfarin,Drug,1310149,RxNorm
+apixaban,Drug,43013024,RxNorm
+dabigatran,Drug,45775372,RxNorm
+rivaroxaban,Drug,40241331,RxNorm
+enoxaparin,Drug,1301025,RxNorm
+heparin,Drug,1367571,RxNorm
+progesterone,Drug,1552310,RxNorm
+amiodarone,Drug,1309944,RxNorm
+sotalol,Drug,1370109,RxNorm
+dofetilide,Drug,1362979,RxNorm
+flecainide,Drug,1354860,RxNorm
+propafenone,Drug,1353256,RxNorm
+sildenafil,Drug,1316262,RxNorm
+Age,Demographic,4265453,SNOMED
+Race,Observation,4013886,SNOMED
+Diastolic blood pressure,Measurement,3012888,
+Systolic blood pressure,Measurement,3004249,
+Body weight,Measurement,3025315,
+Body height,Measurement,3036277,
+Hemoglobin,Measurement,3000963,
+Platelets,Measurement,3024929,
+Heart rate,Measurement,3027018,
+Creatinine,Measurement,3016723,
+Sodium,Measurement,3019550,
+Calcium,Measurement,3006906,
+Glucose,Measurement,3004501,
+White blood cell count,Measurement,3046900,
+Total bilirubin,Measurement,3024128,
+"Protein, serum",Measurement,3020630,
+Alkaline phosphatase,Measurement,3035995,
+Aspartate aminotransferase,Measurement,3013721,
+Anion gap,Measurement,3045716,
+Blood urea nitrogen,Measurement,3013682,
+Chloride,Measurement,3014576,
+Potassium,Measurement,3023103,
+Albumin,Measurement,3024561,
+Alanine aminotransferase,Measurement,3006923,
+eGFR,Measurement,3049187,
+Bicarbonate,Measurement,3016293,
+TSH,Measurement,3009201,
+Triglycerides,Measurement,3022192,
+HDL cholesterol,Measurement,3007070,
+Proteinuria,Measurement,3038906,
+LDL cholesterol,Measurement,3028288,
+"Protein in urine, dipstick",Measurement,40760845,
+Hemoglobin A1c,Measurement,3004410,
+Phosphate,Measurement,3011904,
+C-reactive protein,Measurement,3020460,
+Free T4,Measurement,3008598,
+Iron,Measurement,3002400,
+NT-proBNP,Measurement,3029187,
+Ferritin,Measurement,3015242,
+Troponin I,Measurement,3021337,
+Troponin T,Measurement,40769783,
+Urine albumin/creatinine ratio,Measurement,3034485,
+Urine microalbumin,Measurement,3000034,
+Lipoprotein a,Measurement,3046664,

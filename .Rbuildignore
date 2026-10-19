@@ -1,0 +1,12 @@
+^HFInYoungWomen\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^\.positai$
+^\.claude$
+^R\.env$
+^.*\.env$
+^outputs$
+^output$
+^CLAUDE\.md$
+__pycache__
+^AoU$

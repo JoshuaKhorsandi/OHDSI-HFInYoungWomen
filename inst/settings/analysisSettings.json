@@ -1,0 +1,79 @@
+{
+  "dataset": "heartfailure",
+  "seed": 42,
+  "batch_size": 128,
+
+  "c": 4,
+  "z_dim": 10,
+  "hidden_dims": [256, 128, 64],
+  "dropout_rate": 0.2,
+  "activation": "relu",
+  "logvar_clip": 10.0,
+  "normalize_responsibilities": true,
+  "responsibility_scale": 20.0,
+
+  "learning_rate": 4.332668186381072e-05,
+  "weight_decay": 1e-06,
+  "w_numeric": 1.2055581589006579,
+  "log_every": 100,
+  "eval_every": 500,
+  "early_stopping_metric": "mse",
+  "early_stopping_patience": 4,
+  "early_stopping_min_delta": 0.0,
+  "restore_best": true,
+
+  "gamma": 0.001,
+  "gamma_steps": 3000,
+  "gmm_steps": 20,
+  "beta_steps": 500,
+  "static_steps": 500,
+  "max_steps": 16000,
+
+  "optimization": {
+    "n_trials": 32,
+    "study_name": "s3vdc-vade-heartfailure",
+    "selection": "knee"
+  },
+
+  "survival": {
+    "max_years": 7,
+    "age_strata": 4,
+    "forest_xlim": [0, 4],
+    "forest_log": false,
+    "outcomes": [
+      {"id": "inpatient", "group": "Rehospitalization", "label": "Inpatient", "event": "visit", "visit_concept_ids": [9201]},
+      {"id": "er", "group": "Rehospitalization", "label": "ER", "event": "visit", "visit_concept_ids": [9203]},
+      {"id": "inpatient_or_er", "group": "Rehospitalization", "label": "Inpatient or ER", "event": "visit", "visit_concept_ids": [9201, 9203]},
+      {"id": "death_inpatient", "group": "Death during encounter", "label": "Inpatient", "event": "death_during_visit", "visit_concept_ids": [9201]},
+      {"id": "death_er", "group": "Death during encounter", "label": "ER", "event": "death_during_visit", "visit_concept_ids": [9203]},
+      {"id": "death_inpatient_or_er", "group": "Death during encounter", "label": "Inpatient or ER", "event": "death_during_visit", "visit_concept_ids": [9201, 9203]},
+      {"id": "mortality", "group": "All-cause mortality", "label": "All-cause", "event": "death", "visit_concept_ids": []}
+    ]
+  },
+
+  "phevaluator": {
+    "phenotype": "Universal Definition Of Heart Failure",
+    "cohort_ids": {"xspec": 1081, "xsens": 1082, "prevalence": 1083, "evaluation": 1084},
+    "excluded_concept_ids": [316139, 3029187],
+    "covariate_windows": [[0, 30], [31, 180], [181, 365]]
+  },
+
+  "posthoc": {
+    "cluster_names": null,
+    "ridgeline_features": [
+      "prof_Natriuretic_peptide.B_prohormone_N-Terminal_[Mass/volume]_in_Serum_or_Plasma_(picogram_per_milliliter)",
+      "prof_age_in_years",
+      "prof_Glomerular_filtration_rate_[Volume_Rate/Area]_in_Serum,_Plasma_or_Blood_by_Creatinine-based_formula_(MDRD)/1.73_sq_M_among_non_black_population_(milliliter_per_minute_per_1.73_square_meter)",
+      "prof_Systolic_blood_pressure_(millimeter_mercury_column)"
+    ],
+    "ridgeline_log": ["Natriuretic_peptide"],
+    "radar_classes": [
+      "Pregnancy", "Prior MI", "BMI ≥ 30", "Autoimmune disease", "Sickle cell",
+      "Chronic Kidney Disease", "Type 2 Diabetes", "Antiplatelets", "Statins",
+      "Pulmonary Hypertension", "Beta Blockers"
+    ],
+    "dependence_features": [
+      "prof_Platelets_#/volume_in_Blood_by_Automated_count_(thousand_per_microliter)"
+    ]
+  }
+}
