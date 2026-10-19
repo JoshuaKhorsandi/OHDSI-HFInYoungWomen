@@ -32,7 +32,7 @@ runSurvivalAnalysis(settings)
 runPheValuator(settings)
 }
 \arguments{
-\item{settings}{List returned by \code{\link[=loadStudySettings]{loadStudySettings()}}.}
+\item{settings}{List returned by \code{\link[=createStudySettings]{createStudySettings()}}.}
 }
 \value{
 \itemize{
@@ -50,7 +50,7 @@ runPheValuator(settings)
 \description{
 The steps \code{\link[=execute]{execute()}} runs, one function each, so they can be run and
 inspected one at a time. Each takes the list returned by
-\code{\link[=loadStudySettings]{loadStudySettings()}} and writes to its own subfolder of \code{outputFolder}.
+\code{\link[=createStudySettings]{createStudySettings()}} and writes to its own subfolder of \code{outputFolder}.
 Later steps read what earlier ones wrote, so they must run in the order
 listed here. \code{\link[=runOptimization]{runOptimization()}} is optional; to train with its result, set
 \code{settings$analysisSettingsPath} to the \code{settings_path} it returns.

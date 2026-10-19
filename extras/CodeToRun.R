@@ -1,6 +1,47 @@
 library(HFInYoungWomen)
 
-settings <- loadStudySettings("R.env")
+dotenv::load_dot_env("R.env")
+
+options(java.parameters = c("-Dno.netty.nativeTlsOpenSsl=false", "-Dno.netty.allocType=unpooled"))
+
+connectionString <- paste0(
+  "jdbc:databricks://", Sys.getenv("DATABRICKS_SERVER_HOSTNAME"), ":443;",
+  "transportMode=http;ssl=1;",
+  "httpPath=", Sys.getenv("DATABRICKS_HTTP_PATH"), ";",
+  "AuthMech=3;UID=token;PWD=", Sys.getenv("DATABRICKS_TOKEN"), ";",
+  "UseProxy=1;ProxyHost=proxy.jh.edu;ProxyPort=3129;",
+  "EnableArrow=0"
+)
+
+connectionDetails <- DatabaseConnector::createConnectionDetails(
+  dbms = "spark",
+  connectionString = connectionString,
+  pathToDriver = Sys.getenv("PATH_TO_JDBC_DRIVER"),
+  user = "token",
+  password = Sys.getenv("DATABRICKS_TOKEN")
+)
+
+cdmDatabaseSchema <- Sys.getenv("CDM_SCHEMA")
+cohortDatabaseSchema <- Sys.getenv("DATABASE_SCHEMA")
+cohortTable <- "hf_young_women_cohort"
+outputFolder <- "output"
+
+runAll <- FALSE
+if (runAll) {
+  results <- execute(connectionDetails = connectionDetails,
+                     cdmDatabaseSchema = cdmDatabaseSchema,
+                     cohortDatabaseSchema = cohortDatabaseSchema,
+                     cohortTable = cohortTable,
+                     outputFolder = outputFolder)
+}
+
+settings <- createStudySettings(
+  connectionDetails = connectionDetails,
+  cdmDatabaseSchema = cdmDatabaseSchema,
+  cohortDatabaseSchema = cohortDatabaseSchema,
+  cohortTable = cohortTable,
+  outputFolder = outputFolder
+)
 
 cohortSize <- runCohortCreation(settings)
 

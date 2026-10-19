@@ -3,30 +3,53 @@
 #' Runs each study step in order: [runCohortCreation()],
 #' [runFeatureExtraction()], [runTable1()], [runMeasurementReport()],
 #' optionally [runOptimization()], [runVadeTraining()],
-#' [runPosthocAnalysis()] and [runSurvivalAnalysis()]. Connection details and
-#' schemas are read from `envPath` by [loadStudySettings()].
-#' `extras/CodeToRun.R` runs the same steps one at a time.
+#' [runPosthocAnalysis()] and [runSurvivalAnalysis()].
+#' `extras/CodeToRun.R` shows how to set up the connection, and how to run the
+#' same steps one at a time.
 #'
-#' @param envPath Path to the env file.
+#' @param connectionDetails Connection details from
+#'   [DatabaseConnector::createConnectionDetails()].
+#' @param cdmDatabaseSchema CDM and vocabulary schema.
+#' @param cohortDatabaseSchema Writable schema for the cohort table and temp
+#'   tables.
+#' @param cohortTable Cohort table name, created if absent.
+#' @param cohortId Cohort definition id of the heart failure cohort.
+#' @param outputFolder Folder the steps write to.
 #' @param steps Steps to run, any of `"cohort"`, `"features"`, `"table1"`,
 #'   `"measurementReport"`, `"vade"`, `"posthoc"` and `"survival"`. Later
 #'   steps read the files earlier steps wrote to the output folder, so a subset
 #'   can be rerun.
 #' @param optimize Re-optimize the VaDE hyperparameters with Optuna before
 #'   training, instead of using those in `analysisSettingsPath`.
+#' @param pythonEnv `NULL` to let reticulate manage the Python environment
+#'   with uv, or the name of, or path to, a virtualenv from
+#'   [configurePython()].
 #' @param analysisSettingsPath JSON file with the VaDE hyperparameters, the
-#'   Optuna options, the posthoc figure options and the survival outcomes.
+#'   Optuna, survival, PheValuator and posthoc options.
 #'
 #' @returns Invisibly, a list holding the settings and each step's result.
 #'
 #' @export
-execute <- function(envPath = "R.env",
+execute <- function(connectionDetails,
+                    cdmDatabaseSchema,
+                    cohortDatabaseSchema,
+                    cohortTable,
+                    cohortId = 1295,
+                    outputFolder = "output",
                     steps = c("cohort", "features", "table1", "measurementReport", "vade", "posthoc",
                               "survival"),
                     optimize = FALSE,
+                    pythonEnv = NULL,
                     analysisSettingsPath = defaultAnalysisSettings()) {
   steps <- match.arg(steps, several.ok = TRUE)
-  settings <- loadStudySettings(envPath, analysisSettingsPath)
+  settings <- createStudySettings(connectionDetails = connectionDetails,
+                                  cdmDatabaseSchema = cdmDatabaseSchema,
+                                  cohortDatabaseSchema = cohortDatabaseSchema,
+                                  cohortTable = cohortTable,
+                                  cohortId = cohortId,
+                                  outputFolder = outputFolder,
+                                  pythonEnv = pythonEnv,
+                                  analysisSettingsPath = analysisSettingsPath)
   results <- list()
 
   if ("cohort" %in% steps) {
@@ -63,7 +86,7 @@ execute <- function(envPath = "R.env",
 #'
 #' The steps [execute()] runs, one function each, so they can be run and
 #' inspected one at a time. Each takes the list returned by
-#' [loadStudySettings()] and writes to its own subfolder of `outputFolder`.
+#' [createStudySettings()] and writes to its own subfolder of `outputFolder`.
 #' Later steps read what earlier ones wrote, so they must run in the order
 #' listed here. [runOptimization()] is optional; to train with its result, set
 #' `settings$analysisSettingsPath` to the `settings_path` it returns.
@@ -71,7 +94,7 @@ execute <- function(envPath = "R.env",
 #' [execute()] never runs; call it after [runCohortCreation()]. It needs the
 #' PheValuator package.
 #'
-#' @param settings List returned by [loadStudySettings()].
+#' @param settings List returned by [createStudySettings()].
 #'
 #' @returns
 #' * `runCohortCreation()`: the number of patients in the cohort.

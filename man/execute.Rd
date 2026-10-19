@@ -5,15 +5,33 @@
 \title{Run the study end to end}
 \usage{
 execute(
-  envPath = "R.env",
+  connectionDetails,
+  cdmDatabaseSchema,
+  cohortDatabaseSchema,
+  cohortTable,
+  cohortId = 1295,
+  outputFolder = "output",
   steps = c("cohort", "features", "table1", "measurementReport", "vade", "posthoc",
     "survival"),
   optimize = FALSE,
+  pythonEnv = NULL,
   analysisSettingsPath = defaultAnalysisSettings()
 )
 }
 \arguments{
-\item{envPath}{Path to the env file.}
+\item{connectionDetails}{Connection details from
+\code{\link[DatabaseConnector:createConnectionDetails]{DatabaseConnector::createConnectionDetails()}}.}
+
+\item{cdmDatabaseSchema}{CDM and vocabulary schema.}
+
+\item{cohortDatabaseSchema}{Writable schema for the cohort table and temp
+tables.}
+
+\item{cohortTable}{Cohort table name, created if absent.}
+
+\item{cohortId}{Cohort definition id of the heart failure cohort.}
+
+\item{outputFolder}{Folder the steps write to.}
 
 \item{steps}{Steps to run, any of \code{"cohort"}, \code{"features"}, \code{"table1"},
 \code{"measurementReport"}, \code{"vade"}, \code{"posthoc"} and \code{"survival"}. Later
@@ -23,8 +41,12 @@ can be rerun.}
 \item{optimize}{Re-optimize the VaDE hyperparameters with Optuna before
 training, instead of using those in \code{analysisSettingsPath}.}
 
+\item{pythonEnv}{\code{NULL} to let reticulate manage the Python environment
+with uv, or the name of, or path to, a virtualenv from
+\code{\link[=configurePython]{configurePython()}}.}
+
 \item{analysisSettingsPath}{JSON file with the VaDE hyperparameters, the
-Optuna options, the posthoc figure options and the survival outcomes.}
+Optuna, survival, PheValuator and posthoc options.}
 }
 \value{
 Invisibly, a list holding the settings and each step's result.
@@ -33,7 +55,7 @@ Invisibly, a list holding the settings and each step's result.
 Runs each study step in order: \code{\link[=runCohortCreation]{runCohortCreation()}},
 \code{\link[=runFeatureExtraction]{runFeatureExtraction()}}, \code{\link[=runTable1]{runTable1()}}, \code{\link[=runMeasurementReport]{runMeasurementReport()}},
 optionally \code{\link[=runOptimization]{runOptimization()}}, \code{\link[=runVadeTraining]{runVadeTraining()}},
-\code{\link[=runPosthocAnalysis]{runPosthocAnalysis()}} and \code{\link[=runSurvivalAnalysis]{runSurvivalAnalysis()}}. Connection details and
-schemas are read from \code{envPath} by \code{\link[=loadStudySettings]{loadStudySettings()}}.
-\code{extras/CodeToRun.R} runs the same steps one at a time.
+\code{\link[=runPosthocAnalysis]{runPosthocAnalysis()}} and \code{\link[=runSurvivalAnalysis]{runSurvivalAnalysis()}}.
+\code{extras/CodeToRun.R} shows how to set up the connection, and how to run the
+same steps one at a time.
 }
