@@ -58,7 +58,7 @@ library(HFInYoungWomen)
 
 dotenv::load_dot_env("R.env")
 
-connectionString <- "<JDBC URL for your database, see extras/CodeToRun.R>"
+connectionString <- "create or set directly"
 
 connectionDetails <- DatabaseConnector::createConnectionDetails(
   dbms = "spark",
